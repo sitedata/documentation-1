@@ -57,7 +57,7 @@
 * [Closing a Collective](collectives/closing-a-collective.md)
 * [Connected collectives](collectives/connectedcollectives.md)
 * [Conversations](collectives/conversations.md)
-* [Setting up GitHub Sponsored Organization](collectives/github-sponsored-organizations.md)
+* [Setting up GitHub Sponsors](collectives/github-sponsors.md)
 
 ## Financial Contributors
 
