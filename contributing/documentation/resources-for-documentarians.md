@@ -49,7 +49,7 @@ Once you installed all of them, kill all running instances of Shutter \(using th
 [Peek](https://github.com/phw/peek) is open-source software that allows you to record portions of your screen and easily transform them into GIF, APNG, MP4, or WebM. 
 
 {% hint style="warning" %}
-You may stumble upon a few issues when using this software on a Wayland.
+You may stumble upon a few issues when using this software on Wayland.
 {% endhint %}
 
 ## Extensions
