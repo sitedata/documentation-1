@@ -16,7 +16,6 @@ redirects:
   backers-and-sponsors/bulk-transfers: ./financial-contributors/organizations/bulk-transfers.md
   backers-and-sponsors/website-badge: ./financial-contributors/website-badge.md
   backers-and-sponsors/sustainer-resources: ./financial-contributors/organizations/sustainer-resources.md
-  collectives/github-sponsored-organizations: ./collectives/github-sponsors.md
   expenses: ./expenses-and-getting-paid/expenses.md
   hosts: ./fiscal-hosts/fiscal-hosts.md
   hosts/become-host: ./fiscal-hosts/become-a-fiscal-host.md
