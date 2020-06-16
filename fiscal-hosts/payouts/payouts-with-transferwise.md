@@ -12,6 +12,18 @@ For hosts that are using TransferWise, this integration can be used to automate 
 
 After connecting your TransferWise account, users submitting new expenses will have access to a structured form for providing a valid bank account information and you will be able to pay those expenses automatically with the _Pay with TransferWise_ button.
 
+## Fees
+
+#### What are the fees involved?
+
+The fees are charged by TransferWise and its value will vary with the currencies being and value being transferred. You can read more about [TransferWise fees here](https://transferwise.com/help/13/understanding-fees-and-rates/2522717/how-do-you-determine-your-fees).
+
+#### Who pays these fees?
+
+These fees are paid by the collective the expense was submitted for. This means that transactions in TransferWise will display the fees but that value will also be deducted from the collective balance in our platform as _payment processor fee_.
+
+![An expense submitted to Open Collective Engineering paid using TransferWise.](../../.gitbook/assets/image%20%2817%29.png)
+
 ## The Beta test
 
 We're currently testing this feature with the help of selected Host collectives.
