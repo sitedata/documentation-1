@@ -39,7 +39,9 @@ _Read on for more details._
     </tr>
   </thead>
   <tbody></tbody>
-</table>| Pay out money | Reimburse expenses and pay invoices | payment processor fees |
+</table>
+
+| Pay out money | Reimburse expenses and pay invoices | payment processor fees |
 | :--- | :--- | :--- |
 
 
