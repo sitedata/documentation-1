@@ -16,6 +16,12 @@ Conversations are enabled by default for new Collectives. If you want to enable 
 
 ![](../.gitbook/assets/image%20%2829%29.png)
 
+## Comments moderation
+
+As a collective admin, you can delete any comment submitted in a conversation.
+
+![](../.gitbook/assets/image%20%2822%29.png)
+
 ## FAQ
 
 * **Who can see conversations?** 
