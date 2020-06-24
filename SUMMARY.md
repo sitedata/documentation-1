@@ -140,6 +140,7 @@
 * [Host Admin Manual](internal/host-admin-manual.md)
 * [Internal moderation tools](internal/moderation.md)
 * [Newsletter](internal/newsletter.md)
+* [Claiming a pledged collective](internal/claiming-a-pledged-collective.md)
 * [Support](internal/support.md)
 * [Issue Labels](internal/issue-labels.md)
 * [DNS Troubleshooting](internal/dns-troubleshooting.md)
