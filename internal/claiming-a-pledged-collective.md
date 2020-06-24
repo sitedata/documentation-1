@@ -8,7 +8,7 @@ Pledged collective claims are sent to us by email. Once received, we reply by se
 
 > Hi \_\_\_\_\_\_\_\_\_,
 >
-> Thank you for getting in touch about [https://opencollective.com/\_\_\_\_\_](https://opencollective.com/_____). ​I'm going to assist you in this procedure, the steps of which are as follows:
+> Thank you for getting in touch about [https://opencollective.com/\_\_\_\_\_](https://opencollective.com/_____). ​I'm going to assist you with this process, the steps of which are as follows:
 >
 > 1. We need to verify that you are an admin of the Github organization. To do so:
 >    * Create a new public repository on [https://github.com/](https://github.com/python)\_\_\_\_\_\_\_ \(ie. opencollective-verification\)
