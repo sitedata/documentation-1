@@ -38,7 +38,7 @@ Help Collectives make a logo or a background image!
 
 ## **Code**
 
-There are always plenty of [open issues](https://github.com/OpenCollective/OpenCollective/issues)! We also have [Bounties](https://github.com/opencollective/documentation/tree/7991781321e21c71705dddaf37775eeb78dbe972/developers/bounties.md).
+There are always plenty of [open issues](https://github.com/OpenCollective/OpenCollective/issues)! We also have [Bounties](../contributing/development/bounties.md).
 
 {% page-ref page="../contributing/development/" %}
 
