@@ -23,13 +23,57 @@ Pledged collective claims are sent to us by email. Once received, we reply by se
 
 Once we receive the verification email:
 
-* Set the `HostCollectiveId` of the collective to `11004` and `isActive` to `true`
+* Set the `HostCollectiveId` of the collective to `11004` , `isActive` to `true` , `approvedAt` to the current date and `isPledged` to false.
+* Create the HOST member
+
+```sql
+INSERT INTO "Members"  (
+  "createdAt",
+  "updatedAt",
+  "since",
+  "CreatedByUserId",
+  "MemberCollectiveId",
+  "CollectiveId",
+  "role"
+) VALUES (
+  NOW(),
+  NOW(),
+  NOW(),
+  2,
+  11004,
+  __COLLECTIVE_ID__,
+  'HOST'
+)
+```
+
+* Add user as collective admin
+
+```sql
+INSERT INTO "Members"  (
+  "createdAt",
+  "updatedAt",
+  "since",
+  "CreatedByUserId",
+  "MemberCollectiveId",
+  "CollectiveId",
+  "role"
+) VALUES (
+  NOW(),
+  NOW(),
+  NOW(),
+  2,
+  __MEMBER_COLLECTIVE_ID__,
+  __COLLECTIVE_ID__,
+  'ADMIN'
+)
+```
+
 * Export the list of emails with the following query, and send them to the claimer:
 
 ```sql
-SELECT DISTINCT u.email
+SELECT DISTINCT u.email, "totalAmount" AS amount, o."interval", o."publicMessage" AS message
 FROM "Orders" o 
 INNER JOIN "Users" u ON o."CreatedByUserId" = u.id
-WHERE o."CollectiveId" = 83
+WHERE o."CollectiveId" = $collective_id
 ```
 
