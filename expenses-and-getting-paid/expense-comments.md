@@ -1,5 +1,7 @@
 # Expense Comments
 
+All expense comments are private, only visible to the submitter and the admins. This is because they often contain private payment info.
+
 Comments on expenses are the best way to add information, check the status, or ask questions. If you comment on an expense, the submitter, core contributor, and fiscal host admin will be notified.
 
 Common uses for expense comments:
