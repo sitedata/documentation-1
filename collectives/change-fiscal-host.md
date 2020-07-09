@@ -1,6 +1,8 @@
 # Change Fiscal Host
 
-You can change the fiscal host of your Collective to a different existing host, or start your own host.
+You can change the fiscal host of your Collective to a different existing host, or start your own host and move it there.
+
+_**NOTE:** It's not possible to change to a host with a different currency than your Collective began with, if there are already any financial transactions associated. You need to change to a host with the same currency, or start a new Collective with the new currency and host._
 
 ## What does it mean to change fiscal hosts?
 
