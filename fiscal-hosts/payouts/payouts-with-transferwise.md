@@ -33,11 +33,11 @@ If you're interested in testing this feature, please reach out through support@o
 ## Limitations
 
 * Payments through TransferWise require a borderless account.
-* Payments should respect amount of funds you have accounted for in the platform.
-  * You can't pay expenses if the budget accounted in the collective is not enough to cover the transfer expenses.
+* Payments should respect the fund amount you have accounted for in the platform.
+  * You can't pay expenses if the budget accounted for the collective is not enough to cover the transfer expenses.
 * The host is still responsible for managing funds in TransferWise.
   * Transfers are funded with your host currency.
-    * If your host is using USD, we're funding all your transfers with your USD balance.
+    * If your host is using USD, we're funding all your transfers with your USD balance despite the payee currency.
 
 ## Connecting TransferWise
 
