@@ -108,7 +108,7 @@ where "chargeRetryCount" > 0
 group by oh.id having count("PaymentMethodId") > 1
 ```
 
-### Revenue and transaction splits by month with all currencies converted to USD
+## Revenue and transaction splits by month with all currencies converted to USD
 
 ```text
 -- Revenue and transaction splits by month with all currencies
