@@ -76,7 +76,7 @@
 * [FAQ](expenses-and-getting-paid/expenses.md)
 * [Submitting Expenses](expenses-and-getting-paid/submitting-expenses.md)
 * [Expense Comments](expenses-and-getting-paid/expense-comments.md)
-* [Edit an Expense](expenses-and-getting-paid/edit-expense.md)
+* [Edit or Download an Expense](expenses-and-getting-paid/edit-expense.md)
 * [Tax Information](expenses-and-getting-paid/tax-information.md)
 
 ## Fiscal Hosts
