@@ -32,5 +32,5 @@ Go to your Collective's page, click on the gear next to your logo, head to the F
 
 Follow the same steps as above, except instead of selecting "create organization", select the existing Organization you'd like to use from the drop down menu.
 
-[**Next: customize your Fiscal Host and set the Fiscal Host fee.**](fiscal-host-settings.md)
+[**Next: customize your Fiscal Host and set the Fiscal Host fee.**](fiscal-host-settings/)
 
