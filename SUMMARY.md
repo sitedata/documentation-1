@@ -64,13 +64,12 @@
 * [FAQ](financial-contributors/financial-contributors.md)
 * [Payments](financial-contributors/payments.md)
 * [Website Badge](financial-contributors/website-badge.md)
+* [Collective to Collective](financial-contributors/collective-to-collective.md)
 * [Organizations](financial-contributors/organizations/README.md)
   * [FAQ](financial-contributors/organizations/organization-faq.md)
   * [Bulk Transfers](financial-contributors/organizations/bulk-transfers.md)
   * [Gift Cards](financial-contributors/organizations/gift-cards.md)
   * [Sustainer Resources](financial-contributors/organizations/sustainer-resources.md)
-* [Collectives](financial-contributors/collectives/README.md)
-  * [Collective to Collective donations](financial-contributors/collectives/collective-to-collective-donations.md)
 
 ## Expenses & Getting Paid
 

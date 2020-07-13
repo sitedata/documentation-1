@@ -11,5 +11,3 @@ Common uses for expense comments:
 * Following up if an expense has not been paid for a while
 * Thanking the submitter for the work they did
 
-![](../.gitbook/assets/image.png)
-

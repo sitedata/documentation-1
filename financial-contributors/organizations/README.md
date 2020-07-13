@@ -2,14 +2,14 @@
 
 ## What is an Organization?
 
-An Organization is a profile that represents a a legal entity instead of an individual. Companies that become Financial Contributors, as well as legal entities that are Fiscal Hosts, are all Organizations on Open Collective.
+An Organization is a profile that represents a company or entity instead of an individual. Companies that become Financial Contributors, as well as legal entities that are Fiscal Hosts, are Organizations on Open Collective.
 
 ## Why Create an Organization?
 
-* Have your company show up as a Financial Contributor of Collectives
+* Have your company show up as a Financial Contributor to Collectives
 * Enable your employees to support Collectives on behalf of your company
 * Make [bulk transfers](bulk-transfers.md) so you can send money once and distribute it to Collectives as you wish
-* Create a profile to host \(become a Fiscal Host\) for a project. [Read more about Fiscal Hosts](../../fiscal-hosts/fiscal-hosts.md)
+* Become a Fiscal Host \([read more](../../fiscal-hosts/become-a-fiscal-host.md)\)
 
 ## **How to** Create an Organization
 
@@ -25,7 +25,7 @@ Once set up, you will be able to select your individual or organization profile 
 
 ### **If you don't have an individual profile yet**
 
-Go through the process of contributing to a Collective, and you'll be able to create both the individual and organization profile during check out.
+Go through the process of contributing to a Collective, and you'll be able to create both the individual and organization profile during checkout.
 
 ## How to Edit an Organization
 

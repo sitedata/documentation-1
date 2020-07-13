@@ -16,7 +16,7 @@ You are only charged when the gift cards are used. If you give away a $50 gift c
 
 ### Do I get an invoice?
 
-Yes, you will receive a proper consolidated monthly invoice from the [Open Source Collective 501c6.](https://opencollective.com/opensource)
+Yes, you will receive a proper consolidated monthly invoice from the Fiscal Host.
 
 ### Is there an expiry date?
 

@@ -1,6 +1,6 @@
 # Website Badge
 
-To show the list of Collectives that you are backing on your website, use add this script:
+To show the list of Collectives that you are backing, use this script on your website:
 
 ```text
 <script src="https://opencollective.com/:username/collectives.js?role=backer"></script>
