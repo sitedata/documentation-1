@@ -87,6 +87,7 @@
 * [Fiscal Host Settings](fiscal-hosts/fiscal-host-settings/README.md)
   * [Add more info](fiscal-hosts/fiscal-host-settings/add-more-info.md)
   * [Customize page sections](fiscal-hosts/fiscal-host-settings/customize-page-sections.md)
+  * [Connect external accounts](fiscal-hosts/fiscal-host-settings/connected-accounts.md)
 * [Invoices](fiscal-hosts/invoices.md)
 * [Payouts](fiscal-hosts/payouts/README.md)
   * [Payouts with PayPal](fiscal-hosts/payouts/payouts-with-paypal.md)

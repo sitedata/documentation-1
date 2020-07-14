@@ -16,5 +16,9 @@ Here's an overview of all settings available for Fiscal Hosts:
 
 {% page-ref page="customize-page-sections.md" %}
 
+### Connect external accounts
+
+{% page-ref page="connected-accounts.md" %}
+
 
 
