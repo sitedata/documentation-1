@@ -20,5 +20,9 @@ Here's an overview of all settings available for Fiscal Hosts:
 
 {% page-ref page="connected-accounts.md" %}
 
+### Manage updates
+
+{% page-ref page="manage-updates.md" %}
+
 
 
