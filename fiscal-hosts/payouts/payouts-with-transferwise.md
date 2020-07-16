@@ -67,7 +67,7 @@ If you're already in the beta test group, you can follow these instructions:
    1. Click on _Continue_;
    2. If you have 2-step authentication activated, authenticate with your token;
    3. Name this key after Open Collective.
-   4. 5. Download and add [our Public Key](https://raw.githubusercontent.com/opencollective/documentation/v2/files/oc-public.pem).
+   4. 5. Download and add <a href="https://raw.githubusercontent.com/opencollective/documentation/v2/files/oc-public.pem" download>our Public Key</a>.
    6. Click on _Add Key._
 10. Lastly, we'll create a webhook to make sure transactions are updated in realtime, for that we'll return once again to your TransferWise settings page;
 11. Select _Webhooks_ and then _Create a new webhook_: ![](../../.gitbook/assets/kapture-2020-05-13-at-10.35.47.gif)
