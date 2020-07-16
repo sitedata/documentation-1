@@ -65,7 +65,7 @@ If you're already in the beta test group, you can follow these instructions:
 8. Select _API tokens_ and then _Manage Public Keys:_ ![](../../.gitbook/assets/image%20%2834%29.png) __
 9. Add our public key clicking on _Add new key_:
    1. Name this key after Open Collective.
-   2. Download and add our Public Key file.
+   2. Download and add [our Public Key file](../../files/oc-public.pem).
    3. Click on _Add Key._
 10. Lastly, we'll create a webhook to make sure transactions are updated in realtime, for that we'll return once again to your TransferWise settings page;
 11. Select _Webhooks_ and then _Create a new webhook_:  ![](../../.gitbook/assets/kapture-2020-05-13-at-10.35.47.gif) 
