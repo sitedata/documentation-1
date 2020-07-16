@@ -17,8 +17,8 @@ This can be the Collective for your host's budget \(to receive host fees if you 
 
 ![](../.gitbook/assets/screen-shot-2019-06-20-at-3.40.06-pm.png)
 
-**Connect your Stripe account**  
-Click the "connect Stripe" button. Create a Stripe account, or log into your existing account by clicking "sign in" in the upper right corner.
+**Activate your Stripe or Bank account**  
+Click the "connect Stripe" button. Create a Stripe account, or log into your existing account by clicking "sign in" in the upper right corner. And/or input your bank account details to accept payments by bank transfer.
 
 ![](../.gitbook/assets/screen-shot-2019-06-20-at-3.39.30-pm.png)
 
