@@ -62,15 +62,21 @@ If you're already in the beta test group, you can follow these instructions:
    ![](../../.gitbook/assets/transferwise_connect.gif)
 
 7. Now, back in TransferWise settings!
-8. Select _Webhooks_ and then _Create a new webhook_:  ![](../../.gitbook/assets/kapture-2020-05-13-at-10.35.47.gif) 
-   * Name this webhook after Open Collective.
-   * Point it to our URL `https://api.opencollective.com/webhooks/transferwise`.
-   * Select _Transfer update events_ events.
-   * Click on _Create webhook._
+8. Select _API tokens_ and then _Manage Public Keys:_ ![](../../.gitbook/assets/image%20%2834%29.png) __
+9. Add our public key clicking on _Add new key_:
+   1. Name this key after Open Collective.
+   2. Download and add our Public Key file.
+   3. Click on _Add Key._
+10. Lastly, we'll create a webhook to make sure transactions are updated in realtime, for that we'll return once again to your TransferWise settings page;
+11. Select _Webhooks_ and then _Create a new webhook_:  ![](../../.gitbook/assets/kapture-2020-05-13-at-10.35.47.gif) 
+    * Name this webhook after Open Collective.
+    * Point it to our URL `https://api.opencollective.com/webhooks/transferwise`.
+    * Select _Transfer update events_ events.
+    * Click on _Create webhook._
 
-     ![](../../.gitbook/assets/transferwise_webhook.png)
-9. Done! Now all your hosted collectives will be able to submit Bank Transfer expenses compatible with TransferWise and you'll be able to pay for it with one click.
-   * Notice that this option will only be available for new expenses, expenses created before these steps are not structured as required by TransferWise and will need to be edited or recreated by the payee.
+      ![](../../.gitbook/assets/transferwise_webhook.png)
+12. Done! Now all your hosted collectives will be able to submit Bank Transfer expenses compatible with TransferWise and you'll be able to pay for it with one click.
+    * Notice that this option will only be available for new expenses, expenses created before these steps are not structured as required by TransferWise and will need to be edited or recreated by the payee.
 
 ## Reducing Risks
 
