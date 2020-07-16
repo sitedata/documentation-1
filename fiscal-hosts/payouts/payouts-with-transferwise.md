@@ -14,11 +14,11 @@ After connecting your TransferWise account, users submitting new expenses will h
 
 ## Fees
 
-#### What are the fees involved?
+### What are the fees involved?
 
 The fees are charged by TransferWise and its value will vary with the currencies being and value being transferred. You can read more about [TransferWise fees here](https://transferwise.com/help/13/understanding-fees-and-rates/2522717/how-do-you-determine-your-fees).
 
-#### Who pays these fees?
+### Who pays these fees?
 
 These fees are paid by the collective the expense was submitted for. This means that transactions in TransferWise will display the fees but that value will also be deducted from the collective balance in our platform as _payment processor fee_.
 
@@ -50,11 +50,11 @@ If you're already in the beta test group, you can follow these instructions:
 
    ![](../../.gitbook/assets/transferwise_settings.png)
 
-3. Select _API tokens_ and then _Add new token:_  ![](../../.gitbook/assets/image%20%2831%29.png) 
+3. Select _API tokens_ and then _Add new token:_ ![](../../.gitbook/assets/image%20%2831%29.png)
    * Name this token after Open Collective, this way you'll always remember where this is being used.
    * Set the token permission to _Full access_, we'll need that to create and fund transactions for your expenses.
    * As a **security measure**, make sure you whitelist the IPs `54.173.229.200` and `54.175.230.252`. ![](../../.gitbook/assets/transferwise_token.png)
-   * Click on _Create token_ and then on _Reveal key_ and __**Copy the API key** you generated.
+   * Click on _Create token_ and then on _Reveal key_ and \_\_**Copy the API key** you generated.
 4. Now, open a new tab and go to [Open Collective](https://www.opencollective.com).
 5. Open your Host collective settings page and click in the _Sending Money_ option in the menu.   ![](../../.gitbook/assets/kapture-2020-05-13-at-10.15.15.gif)   ![](../../.gitbook/assets/kapture-2020-05-13-at-10.33.41.gif) 
 6. Paste the _API Token_ you created in the TransferWise field and click connect;
@@ -62,13 +62,13 @@ If you're already in the beta test group, you can follow these instructions:
    ![](../../.gitbook/assets/transferwise_connect.gif)
 
 7. Now, back in TransferWise settings!
-8. Select _API tokens_ and then _Manage Public Keys:_ ![](../../.gitbook/assets/image%20%2834%29.png) __
+8. Select _API tokens_ and then _Manage Public Keys:_ ![](../../.gitbook/assets/image%20%2834%29.png) \_\_
 9. Add our public key clicking on _Add new key_:
    1. Name this key after Open Collective.
-   2. Download and add [our Public Key file](../../files/oc-public.pem).
+   2. Download and add [our Public Key file](https://raw.githubusercontent.com/opencollective/documentation/v2/files/oc-public.pem).
    3. Click on _Add Key._
 10. Lastly, we'll create a webhook to make sure transactions are updated in realtime, for that we'll return once again to your TransferWise settings page;
-11. Select _Webhooks_ and then _Create a new webhook_:  ![](../../.gitbook/assets/kapture-2020-05-13-at-10.35.47.gif) 
+11. Select _Webhooks_ and then _Create a new webhook_: ![](../../.gitbook/assets/kapture-2020-05-13-at-10.35.47.gif)
     * Name this webhook after Open Collective.
     * Point it to our URL `https://api.opencollective.com/webhooks/transferwise`.
     * Select _Transfer update events_ events.
