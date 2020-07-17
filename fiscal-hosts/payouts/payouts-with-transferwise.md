@@ -45,24 +45,24 @@ TransferWise is currently in beta test, if you're interested in testing this fea
 
 If you're already in the beta test group, you can follow these instructions:
 
-1. Open TransferWise website and log in into your borderless account;
+1. Open TransferWise website and login with your borderless account;
 2. Go to your settings menu in TransferWise;
 
    ![](../../.gitbook/assets/transferwise_settings.png)
 
-3. Select _API tokens_ and then _Add new token:_ ![](../../.gitbook/assets/image%20%2831%29.png)
+3. Select _API tokens_ and then _Add new token:_  ![](../../.gitbook/assets/image%20%2831%29.png)
    * Name this token after Open Collective, this way you'll always remember where this is being used.
    * Set the token permission to _Full access_, we'll need that to create and fund transactions for your expenses.
-   * As a **security measure**, make sure you whitelist the IPs `54.173.229.200` and `54.175.230.252`. ![](../../.gitbook/assets/transferwise_token.png)
+   * As a **security measure**, make sure you whitelist the IPs: `54.173.229.200`  `54.175.230.252`.  ![](../../.gitbook/assets/transferwise_token.png)
    * Click on _Create token_ and then on _Reveal key_ and \_\_**Copy the API key** you generated.
 4. Now, open a new tab and go to [Open Collective](https://www.opencollective.com).
-5. Open your Host collective settings page and click in the _Sending Money_ option in the menu.   ![](../../.gitbook/assets/kapture-2020-05-13-at-10.15.15.gif)   ![](../../.gitbook/assets/kapture-2020-05-13-at-10.33.41.gif) 
+5. Open your Host collective settings page and click in the _Sending Money_ option in the menu. ![](../../.gitbook/assets/kapture-2020-05-13-at-10.15.15.gif)   ![](../../.gitbook/assets/kapture-2020-05-13-at-10.33.41.gif) 
 6. Paste the _API Token_ you created in the TransferWise field and click connect;
 
    ![](../../.gitbook/assets/transferwise_connect.gif)
 
 7. Now, back in TransferWise settings!
-8. Select _API tokens_ and then _Manage Public Keys:_ ![](../../.gitbook/assets/image%20%2834%29.png) \_\_
+8. Select _API tokens_ and then _Manage Public Keys:_ ![](../../.gitbook/assets/image%20%2834%29.png)
 9. Add our public key clicking on _Add new key_:
    1. Click on _Continue_;
    2. If you have 2-step authentication activated, authenticate with your token;
@@ -73,7 +73,7 @@ If you're already in the beta test group, you can follow these instructions:
 11. Select _Webhooks_ and then _Create a new webhook_: ![](../../.gitbook/assets/kapture-2020-05-13-at-10.35.47.gif)
     * Name this webhook after Open Collective.
     * Point it to our URL `https://api.opencollective.com/webhooks/transferwise`.
-    * Select _Transfer update events_ events.
+    * Select _Transfer update events_.
     * Click on _Create webhook._
 
       ![](../../.gitbook/assets/transferwise_webhook.png)
@@ -84,12 +84,14 @@ If you're already in the beta test group, you can follow these instructions:
 
 In order to reduce risks related to having an active API token that is able to create and fund transactions, we strongly suggest you to:
 
-1. White list our fixed IPs when creating your API token.
-2. Keep just enough balance in TransferWise to pay your expenses.
+1. White-list our fixed IPs when creating your API token.
+2. Activate the Two-Step Authentication in TransferWise.
+3. Keep just enough balance in TransferWise to pay your expenses.
    * This can be achieved by calculating the amount needed for the current payment cycle and transferring it beforehand.
 
 ## Troubleshooting
 
 * `Unable to fund transfer`
-  * You don't have enough funds in your host's currency balance. Please add funds and try again.
+  * Double-check if you have enough funds in your TransferWise balance, you'll be using the balance with the same currency of your OpenCollective account.
+  * Make sure you added our Public Key to your account \(steps 8 and 9 in [Payouts with TransferWise](payouts-with-transferwise.md#connecting-transferwise)\).
 
