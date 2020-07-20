@@ -122,25 +122,39 @@ with conversions as (select
     /* deal with currency */
     CASE
         WHEN (t.currency = 'USD') THEN t.amount / 1
-        WHEN (t.currency = 'EUR') THEN t.amount / 0.88
-        WHEN (t.currency = 'MXN') THEN t.amount / 22.65
-        WHEN (t.currency = 'AUD') THEN t.amount / 1.43
-        WHEN (t.currency = 'CAD') THEN t.amount / 1.35
-        WHEN (t.currency = 'INR') THEN t.amount / 75.20
-        WHEN (t.currency = 'SEK') THEN t.amount / 9.18
-        WHEN (t.currency = 'GBP') THEN t.amount / 0.79
+        WHEN (t.currency = 'EUR') THEN t.amount / 0.874114
+        WHEN (t.currency = 'GBP') THEN t.amount / 0.79071
+        WHEN (t.currency = 'MXN') THEN t.amount / 22.66051
+        WHEN (t.currency = 'CAD') THEN t.amount / 1.354446
+        WHEN (t.currency = 'CHF') THEN t.amount / 0.9392
+        WHEN (t.currency = 'UYU') THEN t.amount / 43.695617
+        WHEN (t.currency = 'AUD') THEN t.amount / 1.426737
+        WHEN (t.currency = 'INR') THEN t.amount / 74.77525
+        WHEN (t.currency = 'JPY') THEN t.amount / 107.175937
+        WHEN (t.currency = 'NZD') THEN t.amount / 1.522297
+        WHEN (t.currency = 'NGN') THEN t.amount / 388.000345
+        WHEN (t.currency = 'CZK') THEN t.amount / 23.274006
+        WHEN (t.currency = 'BRL') THEN t.amount / 5.357999
+        WHEN (t.currency = 'SEK') THEN t.amount / 8.981097
         ELSE 0
     END AS "amountInUSD",
     CASE
         WHEN (t."data"->>'isFeesOnTop' = 'true' AND t."type" = 'CREDIT' AND t."CollectiveId" = 1) THEN t."amount"
         WHEN (t.currency = 'USD') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 1
-        WHEN (t.currency = 'EUR') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 0.88
-        WHEN (t.currency = 'MXN') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 22.65
-        WHEN (t.currency = 'AUD') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 1.43
-        WHEN (t.currency = 'CAD') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 1.35
-        WHEN (t.currency = 'INR') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 75.20
-        WHEN (t.currency = 'SEK') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 9.18
-        WHEN (t.currency = 'GBP') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 0.79
+        WHEN (t.currency = 'EUR') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 0.874114
+        WHEN (t.currency = 'GBP') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 0.79071
+        WHEN (t.currency = 'MXN') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 22.66051
+        WHEN (t.currency = 'CAD') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 1.354445
+        WHEN (t.currency = 'CHF') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 0.9392
+        WHEN (t.currency = 'UYU') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 43.695617
+        WHEN (t.currency = 'AUD') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 1.426737
+        WHEN (t.currency = 'INR') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 74.77525
+        WHEN (t.currency = 'JPY') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 107.175937
+        WHEN (t.currency = 'NZD') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 1.522297
+        WHEN (t.currency = 'NGN') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 388.000345
+        WHEN (t.currency = 'CZK') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 23.274006
+        WHEN (t.currency = 'BRL') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 5.357999
+        WHEN (t.currency = 'SEK') AND t.amount > 0 THEN t."platformFeeInHostCurrency" / 8.981097
         ELSE 0
     END AS "platformFeeInUSD",
 
