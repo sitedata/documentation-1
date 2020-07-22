@@ -151,6 +151,7 @@
 * [Architecture](internal/architecture.md)
 * [Testing](internal/testing.md)
 * [Jobs](internal/jobs/README.md)
+  * [Enabling Currencies in the Platform](internal/jobs/enabling-currencies-in-the-platform.md)
   * [Contributors Thanks tweet](internal/jobs/contributors-thanks-tweet.md)
   * [Merge translations](internal/jobs/merge-translations.md)
   * [Missing stripe transactions](internal/jobs/missing-stripe-transactions.md)
