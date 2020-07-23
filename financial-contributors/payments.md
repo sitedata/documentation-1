@@ -20,11 +20,15 @@ You can also contribute anonymously by making an incognito contribution. If you 
 4. [Organization](organizations/) - contribute using the balance saved to your Organization
 5. Bank transfer, Paypal, or other method if made available by that Collective and their fiscal host
 
-## Subscriptions
+## Recurring financial contributions \(subscriptions\)
 
 ### Why do you charge recurring monthly subscriptions on 1st of every month?
 
 It helps Collectives manage their monthly budget and is more predictable for them. We're working on a way to charge a single payment spread out across monthly contributions, to reduce payment processor transaction fees.
+
+### When will I be billed next time?
+
+You will be charged when you first contribute, and then on the 1st of each month \(for monthly contributions\) or the 1st of the same month next year \(for yearly contributions\). Note: To prevent you from being charged twice in a short time frame, if you contribute after the 15th of a given month, the next charge will not be the 1st of next month but the month after.
 
 ## Payment changes
 
