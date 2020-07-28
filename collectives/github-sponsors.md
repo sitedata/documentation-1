@@ -60,7 +60,7 @@ Next, you will be filling out details as the acting executive for the Collective
 Finally, you will input bank account information. Funds you receive through GitHub go to Open Source Collective’s bank account, so they can credit the money to your Collective’s budget on Open Collective.
 
 * Routing number: `123205054`
-* Account Number: `4866342233`
+* Account Number: `4869374308`
 
 ![](../.gitbook/assets/github_stripe_5.png)
 
