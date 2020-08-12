@@ -40,7 +40,7 @@
 * [Quick Start Guide](collectives/quick-start-guide.md)
 * [Customize Collective](collectives/customize-collective.md)
 * [Core Contributors & Admins](collectives/core-contributors.md)
-* [Tiers & Goals](collectives/tiers-goals.md)
+* [Collective Goals & Tiers](collectives/tiers-goals.md)
 * [Add Fiscal Host](collectives/add-or-change-fiscal-host.md)
 * [Change Fiscal Host](collectives/change-fiscal-host.md)
 * [Open Source Collectives](collectives/osc-verification.md)
