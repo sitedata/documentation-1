@@ -2,7 +2,7 @@
 
 ### **We are on a mission to help collaborative groups collect and spend money transparently.**
 
-{% embed url="https://www.youtube.com/watch?v=IBU5fSILAe8" %}
+{% embed url="https://www.youtube.com/watch?v=IBU5fSILAe8" caption="" %}
 
 \*\*\*\*
 
