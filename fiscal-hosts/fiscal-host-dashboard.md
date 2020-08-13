@@ -16,9 +16,17 @@ Here's what it looks like:
 
 ![](../.gitbook/assets/screen-shot-2019-02-02-at-8.02.00-pm.png)
 
-#### See your Collectives
+#### Manage hosted Collectives and set custom fees
 
-Use the dropdown menu to see a list of all the Collectives in the host. Select one to see only info pertaining to that Collective, or use the All Collectives view.
+You can access a list of all your hosted Collectives by clicking on the **Hosted Collectives** tab. With the first dropdown menu you can sort them by period of time you've hosted them from the most recent to oldest and oldest to most recent. You can also filter them by fee structure: by **global host fee** or **custom fee**.
+
+![](../.gitbook/assets/fiscal-host_fiscal-host-dashboard_manage_collectives_2020-08-12.png)
+
+To add a custom fee to a specific Collective, either find them listed on the page or look for them by name on the search bar. Once you find the right Collective, click on the **Fee structure** button \(the one with a set of lines\).
+
+![](../.gitbook/assets/fiscal-host_fiscal-host-dashboard_custom-fees_2020-08-12.gif)
+
+You will be prompted to either choose your global fee structure or to create a custom fee for this specific Collective. Don't forget to save your changes!
 
 #### Connect PayPal & refill balance
 
