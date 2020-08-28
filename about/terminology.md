@@ -53,6 +53,10 @@ A type of Core Contributor with additional permissions, so they can edit the Col
 
 Core Contributors want to make their communities sustainable financially, so receiving financial contributions is first on their priority list. They use tools like [tiers](../collectives/tiers-goals.md), [goals](terminology.md), and [social media sharing](../collectives/integrations.md#twitter-integration). They are interested in managing and growing their communities by creating [events](../collectives/events.md) and [sending updates](../collectives/communication.md).
 
+#### Accountant
+
+Someone in charge of the financial records for the Collective. They have read access to all financial information \(receipts, invoices, etc\) bot not write access \(they can't approve or pay expenses\).
+
 #### Event Attendee![](../.gitbook/assets/about_terminology_individual_2019-07-09%20%287%29.png)
 
 Individuals who register to attend a Collective's event. They often arrive through a direct link provided by the event organizers. They want a smooth, hassle-free experience, clear information about the event, and ideally a pathway to stay in touch or become contributors.
