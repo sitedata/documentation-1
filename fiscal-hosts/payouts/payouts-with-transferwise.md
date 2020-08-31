@@ -4,10 +4,6 @@ description: Instructions on how to safely connect to TransferWise.
 
 # Payouts with TransferWise
 
-{% hint style="info" %}
-This feature is currently in **Beta** test, [read more about it here](payouts-with-transferwise.md#the-beta-test).
-{% endhint %}
-
 For hosts that are using TransferWise, this integration can be used to automate expense payment by providing a one-click solution for paying expenses.
 
 After connecting your TransferWise account, users submitting new expenses will have access to a structured form for providing a valid bank account information and you will be able to pay those expenses automatically with the _Pay with TransferWise_ button.
@@ -23,12 +19,6 @@ The fees are charged by TransferWise and its value will vary with the currencies
 These fees are paid by the collective the expense was submitted for. This means that transactions in TransferWise will display the fees but that value will also be deducted from the collective balance in our platform as _payment processor fee_.
 
 ![An expense submitted to Open Collective Engineering paid using TransferWise.](../../.gitbook/assets/image%20%2817%29.png)
-
-## The Beta test
-
-We're currently testing this feature with the help of selected Host collectives.
-
-If you're interested in testing this feature, please reach out through support@opencollective.com. If you're already testing the feature and wish to leave the test, you can also send an email to support.
 
 ## Limitations
 
