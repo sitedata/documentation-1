@@ -34,6 +34,10 @@ We offer a rich editor to write your fantastic updates to your Contributors!
 
 #### Private updates
 
+{% hint style="warning" %}
+Hosts don't have access to the "private updates" feature yet.
+{% endhint %}
+
 You can also write and publish exclusive updates for your Contributors by selecting the box on **Private update**.
 
 ![](../.gitbook/assets/collectives_updates-and-comms_private-update.png)
