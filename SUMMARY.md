@@ -32,6 +32,7 @@
 * [Log-in System](product/log-in-system.md)
 * [Privacy Policy](product/privacy-policy.md)
 * [Moderation](product/moderation.md)
+* [Security](product/security.md)
 
 ## Collectives
 
