@@ -12,6 +12,14 @@ For hosts that are using PayPal, this integration can be used to automate expens
 
 After connecting your PayPal account, you'll be able to schedule expenses submitted using PayPal as a payout method for mass-payout without needing to reauthorize with PayPal every $2,000 USD. Expenses scheduled for payout also have a higher limit \(up to $20,000 per expense\) and cheaper fees, you can schedule expenses for payout up to your existing PayPal balance.
 
+## How does it work?
+
+The new payment process is asynchronous, meaning that expenses are now scheduled for payout and dealt with by a scheduled worker. This worker runs **once every hour**, this means that on the turn of the clock we'll bundle the scheduled expenses and pay them in a single request to PayPal.
+
+After being processed by the worker, the expense is marked as in _**Processing**_ and individually tracked. We'll make sure its status is up-to-date on our platform, bear in mind that in the case the recipient doesn't have a PayPal account, they have up to 30 days to create and accept the payment.
+
+If the payment is successful, the expense is marked as _**Paid**_, and in case something goes wrong during this process the expense will be marked as _**Error**_ so you can try it again or process it manually.
+
 ## Fees
 
 #### What are the fees involved?
@@ -92,14 +100,6 @@ If you're already in the beta test group, you can follow these instructions:
 Done! Next time you pay for an expense submitted with PayPal, you'll have the option to _Schedule for Payout_ selected by default.
 
 ![](../../.gitbook/assets/image%20%2833%29.png)
-
-## How does it work?
-
-The new payment process is asynchronous, meaning that expenses are now scheduled for payout and dealt with by a scheduled worker. This worker runs once every hour, this means that on the turn of the clock we'll bundle the scheduled expenses and pay them in a single request to PayPal.
-
-After being proccessed by the worker, the expense is marked as in _**Processing**_ and individualy tracked. We'll make sure its status is up-to-date on our platform, bear in mind that in the case the recipient doesn't have a PayPal account, they have up to 30 days to create and accept the payment.
-
-If the payment is successful, the expense is marked as _**Paid**_, and in case something goes wrong during this process the expense will be marked as _**Error**_ so you can try it again or process it manually.
 
 ## Reducing Risks
 
