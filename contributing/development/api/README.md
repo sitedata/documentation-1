@@ -2,7 +2,9 @@
 
 ## GraphQL API
 
-The future of the Open Collective API is our public GraphQL API. Learn more about it here:  
+The future of the Open Collective API is our public GraphQL API. You can check the documentation on [https://graphql-docs-v2.opencollective.com](https://graphql-docs-v2.opencollective.com/).
+
+Learn more about it here:  
 [https://medium.com/open-collective/open-collective-graphql-api-preview-3b42ed1d55ff](https://medium.com/open-collective/open-collective-graphql-api-preview-3b42ed1d55ff)
 
 ## REST API
