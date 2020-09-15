@@ -14,11 +14,12 @@ Users who create new platform accounts and opt-in to the newsletter need to be a
 
 ```sql
 -- Export email for newsletter
-SELECT "createdAt", "firstName", "lastName", "email"
-FROM "Users"
+SELECT u."createdAt", c.name as full_name, "email"
+FROM "Users" u
+inner join "Collectives" c on u."CollectiveId" = c.id
 WHERE "newsletterOptIn" IS TRUE
-  AND "deletedAt" IS NULL
-  AND "createdAt" >= current_date - INTERVAL '2 months' -- Optional: to get only last 2 month's emails
+  AND u."deletedAt" IS NULL
+  AND u."createdAt" >= current_date - INTERVAL '2 months' -- Optional: to get only last 2 month's emails
 ```
 
 ### Content
