@@ -29,7 +29,3 @@ And fill the form with all required information to add the funds to that Collect
 
 Once you're done, just click on **Add Funds**.
 
-
-
-
-
