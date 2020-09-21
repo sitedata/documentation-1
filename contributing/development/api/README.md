@@ -13,8 +13,6 @@ Our REST API is still supported but we're not working on it anymore.
 
 * [Members](members.md)
   * Get list of members
-* [Users / Emails](users-emails.md)
-  * Get list of Collective users and emails
 * [Collectives](collectives.md)
   * Get collective info
   * Get members
