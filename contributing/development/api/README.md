@@ -23,5 +23,3 @@ Our REST API is still supported but we're not working on it anymore.
   * Get event info
   * Get list of attendees
 
-
-

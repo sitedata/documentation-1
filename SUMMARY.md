@@ -84,7 +84,7 @@
 
 * [FAQ](fiscal-hosts/fiscal-hosts.md)
 * [Becoming a Fiscal Host](fiscal-hosts/become-a-fiscal-host.md)
-* [Create a Fiscal Host](fiscal-hosts/create-a-fiscal-host.md)
+* [Creating a Fiscal Host](fiscal-hosts/create-a-fiscal-host.md)
 * [Fiscal Host Settings](fiscal-hosts/fiscal-host-settings/README.md)
   * [Add more info](fiscal-hosts/fiscal-host-settings/add-more-info.md)
   * [Customize page sections](fiscal-hosts/fiscal-host-settings/customize-page-sections.md)
