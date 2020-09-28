@@ -1,8 +1,17 @@
 # Creating a Fiscal Host
 
 {% hint style="warning" %}
-If you don't have an account yet, please [create one](https://opencollective.com/create-account). You need an individual account to be able to create a Fiscal Host — so fill the form with the info of the **administrator.**
+If you don't have an account yet, please [create one](https://opencollective.com/create-account). You need an individual account to be able to create a Fiscal Host — so fill the form with the info of the **individual** **administrator** of that Fiscal Host.
 {% endhint %}
+
+## Check your starting point
+
+The proceedure to create a Fiscal Host depends on your starting point and your end goals. Click on the link that fits your case to get the appropriate instructions.
+
+1. [I don't have a Collective and I just want to create a Fiscal Host](create-a-fiscal-host.md#i-dont-have-a-collective-and-i-just-want-to-create-a-fiscal-host)
+2. [I already have an Organization and want to transform it into a Fiscal Host](create-a-fiscal-host.md#transforming-your-organization-into-a-fiscal-host)
+3. [I don't have a Collective or a Fiscal Host, and I want to create both](create-a-fiscal-host.md#i-dont-have-a-collective-or-a-fiscal-host-and-i-want-to-create-both)
+4. [I already have a Collective and want to create a Fiscal Host](create-a-fiscal-host.md#add-a-fiscal-host)
 
 ## I don't have a Collective and I just want to create a Fiscal Host
 
