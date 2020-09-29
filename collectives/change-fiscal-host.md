@@ -8,9 +8,9 @@ It's not possible to change to a Fiscal Host with a different currency than your
 
 ## Check your starting point
 
-Instructions on how to change the Fiscal Host of your Collective may change according to your needs. If you already know the impacts related to changing to another Fiscal Host, click on the link that fits your case better.
+Instructions on how to change the Fiscal Host of your Collective may change according to your needs. If you already know the impacts related to changing to another Fiscal Host, click on the link that fits your case better:
 
-1. [I want to join a Fiscal Host that already exists](change-fiscal-host.md#what-is-the-process-for-changing-fiscal-hosts)
+* [I want to join a Fiscal Host that already exists](change-fiscal-host.md#what-is-the-process-for-changing-fiscal-hosts)
 
 ## What does it mean to change fiscal hosts?
 
