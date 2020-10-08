@@ -14,7 +14,11 @@ Our bounty program is about creating opportunities for our community to contribu
 
 #### No compromise on quality
 
-We're not able to accept pull requests that aren't completed to a high standard in a reasonable timeframe. Please only pick up bounties that you are confident you can complete at your current knowledge and skill level. We will not accept pull requests or pay bounties for code that's not up to the standard we need to maintain for the Collectives who rely on this platform. Our dev team is happy to answer questions and provide some limited support, but we don't have capacity to mentor junior developers through the bounty program. For general guidelines about what's expected in the code, check [https://docs.opencollective.com/help/about/contributing](https://docs.opencollective.com/help/about/contributing).
+We're not able to accept pull requests that aren't completed to a high standard in a reasonable timeframe. Please only pick up bounties that you are confident you can complete at your current knowledge and skill level. We will not accept pull requests or pay bounties for code that's not up to the standard we need to maintain for the Collectives who rely on this platform. 
+
+Our dev team is happy to answer questions and provide some limited support, but we don't have capacity to mentor junior developers through the bounty program. 
+
+For general guidelines about what's expected in the code, [see more info here](https://docs.opencollective.com/help/about/contributing).
 
 ### How it works
 
@@ -24,28 +28,23 @@ Our Bounty model is simple:
 * $300: medium complexity
 * $1,000: high complexity
 
-We want to attract quality contributions. The issue will only be considered complete and approved for payment if the Pull Request is merged by an Open Collective [Core Contributor](https://docs.opencollective.com/help/collectives/core-contributors).
+We want to attract quality contributions. The issue will only be considered complete and approved for payment if the Pull Request is merged by an Open Collective team member.
 
 #### Workflow for Bounty Hunters
 
 1. Search for issues with attached bounties: [Bounties for all repositories](https://github.com/opencollective/opencollective/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abounty)
 2. For your first Bounty project, please pick one of the issues tagged "simple" \(you can move on to larger Bounties if the first one goes well\)
 3. Express interest by commenting on the issue and ask to be assigned
-4. You'll be assigned and given an expected timeframe to deliver \(if you aren't able to meet the deadline, the issue may be assigned to someone else\)
-5. Create your solution
-6. Open a Pull Request to get your code reviewed
-7. Incorporate any feedback from [Core Contributors](https://docs.opencollective.com/help/collectives/core-contributors)
-8. PR is reviewed, approved, and merged by a [Core Contributor](https://docs.opencollective.com/help/collectives/core-contributors)
-9. [Submit your invoice as an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) to [Open Collective Engineering](https://opencollective.com/engineering)\*
-10. Get paid!
+4. You'll be assigned and given an expected timeframe to deliver—if you aren't able to meet the deadline, the issue may be assigned to someone else
+5. Create your solution and open a pull request to get your code reviewed
+6. Incorporate any feedback
+7. The PR is reviewed, approved, and merged
+8. [Submit an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) to [Open Collective Engineering](https://opencollective.com/engineering)
+9. Get paid!\*
 
-**\*Make invoices out to:** Engineering Open Collective Inc 340 S Lemon Ave \#3717 Walnut 91789 CA USA
+_\*We pay expenses using Transferwise and Paypal. If you're in a country not served by these services, please get in touch with us to see if we can find an alternative solution. If we cannot pay you, we can issue a gift card that you can use to financially contribute to the open source project of your choice on the platform._
 
-[Here is an invoice template \(Google Doc\)](https://docs.google.com/document/d/1IPxQ7uYsbmZM_HOZZiN0z09xxOcPPQn_sSwXZRV3MPM) you can use if needed.
-
-If you can't issue an invoice, ask to be rewarded with an Open Collective [Gift Card](https://docs.opencollective.com/help/financial-contributors/organizations/gift-cards) instead.
-
-#### Workflow for Core Contributors
+#### Workflow for OC Team Members
 
 1. Tag issues with the "bounty" label and amount \(e.g. "$100"\)
 2. Add a comment with a basic explanation of the Bounty process and link to BOUNTY.md, e.g.:
@@ -54,4 +53,5 @@ If you can't issue an invoice, ask to be rewarded with an Open Collective [Gift 
 
 3. Make sure the issue is understandable for newcomers and expectations are clearly set
 4. When someone asks to pick up a Bounty, assign them the issue and give them a timeframe for delivery
+5. Approve the expense submitted by the bounty contributor.
 
