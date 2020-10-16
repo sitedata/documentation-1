@@ -36,7 +36,6 @@
 
 ## Collectives
 
-* [Moderation](collectives/moderation.md)
 * [FAQ](collectives/collectives.md)
 * [Creating a Collective](collectives/create-collective.md)
 * [Quick Start Guide](collectives/quick-start-guide.md)
@@ -50,6 +49,7 @@
 * [Expense Policy](collectives/expense-policy.md)
 * [Approving Expenses](collectives/approving-expenses.md)
 * [Updates & Comms](collectives/communication.md)
+* [Moderation](collectives/moderation.md)
 * [Conversations](collectives/conversations.md)
 * [Events](collectives/events.md)
 * [Funding Options](collectives/funding-options.md)
