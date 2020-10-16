@@ -36,6 +36,7 @@
 
 ## Collectives
 
+* [Moderation](collectives/moderation.md)
 * [FAQ](collectives/collectives.md)
 * [Creating a Collective](collectives/create-collective.md)
 * [Quick Start Guide](collectives/quick-start-guide.md)
