@@ -6,13 +6,13 @@ If you don't have an account yet, please [create one](https://opencollective.com
 
 ## Check your starting point
 
-The procedure to create a Fiscal Host depends on your starting point and your end goals. Click on the link that fits your case to get the appropriate instructions.
+The procedure to create a Fiscal Host depends on your starting point and your end goals. Click on the link that fits your case to get the appropriate instructions:
 
-1. [I don't have a Collective and I just want to create a Fiscal Host](create-a-fiscal-host.md#i-dont-have-a-collective-and-i-just-want-to-create-a-fiscal-host)
-2. [I already have an Organization and want to transform it into a Fiscal Host](create-a-fiscal-host.md#transforming-your-organization-into-a-fiscal-host)
-3. [I don't have a Collective or a Fiscal Host, and I want to create both](create-a-fiscal-host.md#i-dont-have-a-collective-or-a-fiscal-host-and-i-want-to-create-both)
-4. [I'm a new Collective and want to create a Fiscal Host](create-a-fiscal-host.md#add-a-fiscal-host)
-5. [I want to leave my current Fiscal Host and create one myself](../collectives/change-fiscal-host.md)
+* [I don't have a Collective and I just want to create a Fiscal Host](create-a-fiscal-host.md#i-dont-have-a-collective-and-i-just-want-to-create-a-fiscal-host)
+* [I already have an Organization and want to transform it into a Fiscal Host](create-a-fiscal-host.md#transforming-your-organization-into-a-fiscal-host)
+* [I don't have a Collective or a Fiscal Host, and I want to create both](create-a-fiscal-host.md#i-dont-have-a-collective-or-a-fiscal-host-and-i-want-to-create-both)
+* [I'm a new Collective and want to create a Fiscal Host](create-a-fiscal-host.md#add-a-fiscal-host)
+* [I want to leave my current Fiscal Host and create one myself](../collectives/change-fiscal-host.md)
 
 ## I don't have a Collective and I just want to create a Fiscal Host
 

@@ -2,6 +2,10 @@
 
 **We are a community based on trust, transparency, and contribution. In order to keep it that way, we expect everyone to act in accordance with these guidelines, including all Collectives, Backers, Sponsors, and our own Open Collective team.**.
 
+## **Be Authentic** 
+
+Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community. ****We're all in this together, please act respectfully, honestly, and mission-aligned when using our site.
+
 ## **Be honest**
 
 Be honest about who you are, what your Collective is doing, why you are fundraising, and what you want to do with those funds. Dishonesty is not only damaging to you, but to all Collectives. Don’t be the one bringing mistrust into this community.
@@ -10,19 +14,17 @@ To potential donors:  Respect the right of collectives to build their own commun
 
 If your intention of donating is for any other purpose than to support the mission of the initiative \(i.e. self promotion\), your donation can be refused \(reimbursed\) and removed from a collective'a page.
 
-## **Collective first**
-
-Collectives are groups of people with a shared mission. People may come and go, but the mission remains. A successful Collective survives its initial founders. 
-
-We're all in this together, please act respectfully, honestly, and mission-aligned when using our site.
-
 ## **Be inclusive**
 
 The reason we can do great things together is that each of us bring a different point of view. Whoever you are, you have a unique perspective and skillset to contribute. Be open to those who you want to contribute genuinely.
 
 ## **Be respectful**
 
-We have zero tolerance for trolling, harassment or spamming. Being a jerk will not get you a place in this community; it will turn people away. We don’t want that noise in the system. If your account is found to be engaged in any of the above, we can close it.
+We have zero tolerance for unacceptable behavior. Being a jerk will not get you a place in this community; it will turn people away. We don’t want that noise in the system. If your account is found to be engaged in any kind of unacceptable behavior, we can close it.
+
+Unacceptable behaviors include: spamming, trolling, intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. 
+
+Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images \(including presentation slides\); inappropriate depictions of violence \(including presentation slides\); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
 
 ## **Be mindful**
 
