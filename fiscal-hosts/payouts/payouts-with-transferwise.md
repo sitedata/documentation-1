@@ -31,8 +31,6 @@ These fees are paid by the collective the expense was submitted for. This means 
 
 ## Connecting TransferWise
 
-TransferWise is currently in beta test, if you're interested in testing this feature, please reach out through support@opencollective.com.
-
 If you're already in the beta test group, you can follow these instructions:
 
 1. Open TransferWise website and login with your borderless account;
