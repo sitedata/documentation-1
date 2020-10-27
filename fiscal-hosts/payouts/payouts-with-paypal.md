@@ -4,15 +4,33 @@ description: Instructions on how to safely connect to PayPal.
 
 # Payouts with PayPal
 
+There are two ways you can process expenses using PayPal: using PayPal Adaptive Payments or PayPal Payouts.
+
+## Adaptive Payments
+
+Adaptive Payments are the easy way and it is automatically enabled for everyone.
+
+From your host dashboard, you can connect your PayPal account and pre-approve up to $2,000 USD in payouts. Make sure that you are connecting the PayPal account connected to the same bank account as your Stripe account.
+
+On the host dashboard, expenses that have been approved and have a sufficient budget will show a "pay" button. With just one click you can pay the expense. After paying out $2,000, you'll need to re-authorize with PayPal \(this is a security feature\).
+
+For single payments larger than $2,000, make a manual payment.
+
+## PayPal Payouts
+
 {% hint style="info" %}
-This feature is currently in **Beta** test, read more about it [here](payouts-with-paypal.md#the-beta-test).
+**This feature is currently in Beta test.**
+
+We're currently testing this feature with the help of selected Host collectives.
+
+If you're interested in testing this feature, please reach out through support@opencollective.com. If you're already testing the feature and wish to leave the test, you can also send an email to support.
 {% endhint %}
 
 For hosts that are using PayPal, this integration can be used to automate expense payment by providing a one-click solution for paying expenses using [PayPal Payouts](https://developer.paypal.com/docs/payouts/).
 
 After connecting your PayPal account, you'll be able to schedule expenses submitted using PayPal as a payout method for mass-payout without needing to reauthorize with PayPal every $2,000 USD. Expenses scheduled for payout also have a higher limit \(up to $20,000 per expense\) and cheaper fees, you can schedule expenses for payout up to your existing PayPal balance.
 
-## How does it work?
+### How does it work?
 
 The new payment process is asynchronous, meaning that expenses are now scheduled for payout and dealt with by a scheduled worker. This worker runs **once every hour**, this means that on the turn of the clock we'll bundle the scheduled expenses and pay them in a single request to PayPal.
 
@@ -20,7 +38,7 @@ After being processed by the worker, the expense is marked as in _**Processing**
 
 If the payment is successful, the expense is marked as _**Paid**_, and in case something goes wrong during this process the expense will be marked as _**Error**_ so you can try it again or process it manually.
 
-## Fees
+### Fees
 
 #### What are the fees involved?
 
@@ -32,13 +50,7 @@ These fees are paid by the collective the expense was submitted for. This means 
 
 ![An expense submitted to Open Collective Engineering paid using PayPal.](../../.gitbook/assets/image%20%2826%29.png)
 
-## The Beta test
-
-We're currently testing this feature with the help of selected Host collectives.
-
-If you're interested in testing this feature, please reach out through support@opencollective.com. If you're already testing the feature and wish to leave the test, you can also send an email to support.
-
-## Limitations and Prerequisites
+### Limitations and Prerequisites
 
 * A PayPal business account with:
   * Access to PayPal Payouts.
@@ -50,7 +62,7 @@ If you're interested in testing this feature, please reach out through support@o
 * The host is still responsible for managing funds in PayPal.
   * Expenses are paid with your PayPal Balance.
 
-## Connecting PayPal
+### Connecting to PayPal Payouts
 
 PayPal Payouts is currently in beta test, if you're interested in testing this feature, please reach out through support@opencollective.com.
 
@@ -101,7 +113,7 @@ Done! Next time you pay for an expense submitted with PayPal, you'll have the op
 
 ![](../../.gitbook/assets/image%20%2833%29.png)
 
-## Reducing Risks
+### Reducing Risks
 
 In order to reduce risks related to having an active API token that is able to create and fund transactions, we strongly suggest you to:
 
