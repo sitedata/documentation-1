@@ -33,7 +33,7 @@ These fees are paid by the collective the expense was submitted for. This means 
 
 If you're already in the beta test group, you can follow these instructions:
 
-1. Open TransferWise website and login with your borderless account;
+1. Open TransferWise website and login with your account; **Important:** If you're using a bussiness account, make sure you log in with the _Owner's_ account \(an _Admin_ is not enough\) and you're in the business profile's dashboard.
 2. Go to your settings menu in TransferWise;
 
    ![](../../.gitbook/assets/transferwise_settings.png)
