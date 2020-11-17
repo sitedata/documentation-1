@@ -109,9 +109,9 @@ If you're already in the beta test group, you can follow these instructions:
 
 ![](../../.gitbook/assets/connect_paypal.gif)
 
-Done! Next time you pay for an expense submitted with PayPal, you'll have the option to _Schedule for Payout_ selected by default.
+Done! Next time you pay for an expense submitted with PayPal and you select the automatic method, your expense will be marked as _Scheduled for Payment_ and processed using PayPal Payouts!
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 ### Reducing Risks
 
