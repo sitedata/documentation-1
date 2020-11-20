@@ -97,7 +97,7 @@ Inviting a third-party user or organization to submit an expense automatically c
 
 Notice, although the invited user will pick who's going to be paid for the expense, the created expense will display you as the user who requested it:
 
-![Jean-Fran&#xE7;ois requested an expense to Pia who submitted it in the name of Open Collective Inc, one of her organizations.](../.gitbook/assets/image%20%2842%29.png)
+![Jean-Fran&#xE7;ois requested an expense to Pia who submitted it in the name of Open Collective Inc, one of her organizations.](../.gitbook/assets/image%20%2841%29.png)
 
 ### Inviting an existing user
 
@@ -119,9 +119,9 @@ If you're inviting an organization to submit the expense, don't worry, they'll b
 
 When the user finishes editing the expense, the summary of the expense is displayed and they will be able to create their account and submit the expense in a single action:
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 After submitting the joining and submitting the edited expense, the expense now is saved in the platform and marked as _unverified_ until the users validate their email. After the user validates their email, the expense is marked as pending and is displayed for the collective's admins to approve, continuing its normal flow.
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
