@@ -22,36 +22,56 @@ For general guidelines about what's expected in the code, [see more info here](h
 
 ### How it works
 
-Our Bounty model is simple:
+For reference, until July 2020, we used the following model:
 
-* $100: simple or unknown complexity
-* $300: medium complexity
-* $1,000: high complexity
+* $100: minimal or unknown complexity
+* $200: simple complexity
+* $500: medium complexity
 
-We want to attract quality contributions. The issue will only be considered complete and approved for payment if the Pull Request is merged by an Open Collective team member.
+But since then we have moved to a more flexible one. Based on the **importance of the issue** and its **complexity**, we attach a bounty between $100 and $1000 to the ticket.
 
-#### Workflow for Bounty Hunters
+We want to attract quality contributions. The issue will only be considered complete and approved for payment if the Pull Request is merged by an Open Collective [Core Developer](https://docs.opencollective.com/help/about/team).
 
-1. Search for issues with attached bounties: [Bounties for all repositories](https://github.com/opencollective/opencollective/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abounty)
-2. For your first Bounty project, please pick one of the issues tagged "simple" \(you can move on to larger Bounties if the first one goes well\)
-3. Express interest by commenting on the issue and ask to be assigned
-4. You'll be assigned and given an expected timeframe to deliver—if you aren't able to meet the deadline, the issue may be assigned to someone else
-5. Create your solution and open a pull request to get your code reviewed
-6. Incorporate any feedback
-7. The PR is reviewed, approved, and merged
-8. [Submit an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) to [Open Collective Engineering](https://opencollective.com/engineering)
-9. Get paid!\*
+#### Workflow for Bounty Program Contributors
 
-_\*We pay expenses using Transferwise and Paypal. If you're in a country not served by these services, please get in touch with us to see if we can find an alternative solution. If we cannot pay you, we can issue a gift card that you can use to financially contribute to the open source project of your choice on the platform._
+1. Search for issues with attached bounties:
+   * [Bounties for all repositories](https://github.com/opencollective/opencollective/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abounty)
+2. Express interest by commenting on the issue and ask to be assigned
+3. Open a Pull Request and ask for feedback and review
+4. Incorporate feedback from [Core Developers](https://docs.opencollective.com/help/about/team), if applicable
+5. PR is reviewed, approved, and merged by a [Core Developer](https://docs.opencollective.com/help/about/team)
+6. Get paid:
+   * If you can issue an invoice, submit it as expense to [Open Collective Engineering](https://opencollective.com/engineering)
+   * If you can't issue an invoice, ask to be rewarded with an Open Collective Gift Card
 
-#### Workflow for OC Team Members
+_See_ [_more info about getting paid_](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) _through Open Collective_
 
-1. Tag issues with the "bounty" label and amount \(e.g. "$100"\)
-2. Add a comment with a basic explanation of the Bounty process and link to BOUNTY.md, e.g.:
+#### Workflow for Core Contributors
 
-   > A $100 bounty was attached to this issue. Anyone submitting a Pull Request will be rewarded with $100 when the Pull Request is reviewed, accepted and merged. [More info](https://github.com/opencollective/opencollective/blob/master/BOUNTY.md).
+1. Make sure the issue is understandable for newcomers and expectations are clearly set
+2. Tag issues with the "bounty" label and amount \(e.g. "$100"\)
+3. Add a comment with a basic explanation of the Bounty process and link to BOUNTY.md
 
-3. Make sure the issue is understandable for newcomers and expectations are clearly set
-4. When someone asks to pick up a Bounty, assign them the issue and give them a timeframe for delivery
-5. Approve the expense submitted by the bounty contributor.
+   > A $100 bounty was attached to this issue. Anyone submitting a Pull Request will be rewarded with $100 when the Pull Request is reviewed, accepted and merged. [More info](BOUNTY.md).
+
+4. Make sure the issue is understandable for newcomers and expectations are clearly set
+
+#### Contributor Ladder 
+
+1. **First Time Contributors**
+   * Not part of the Open Collective GitHub organization
+   * Fork our projects on GitHub and push changes on their forks
+   * Have access to minimal or simple complexity issues
+   * Should comment on bounty issues to get assigned \(limited to one at a time\)
+2. **Contributors** _\(at least 1 completed issue\)_
+   * Added to the "Contributors" group in the Open Collective GitHub organization
+   * Can push branches to the Open Collective repositories
+   * Have access to minimal, simple or medium complexity issues
+   * Can assign themselves bounty issues \(limited to one at a time\)
+3. **Recurring Contributors** _\(3 or more completed issues\)_
+   * Added to the "Recurring Contributors" group in the Open Collective GitHub organization
+   * Can assign themselves two bounty issues at a time
+4. **Confirmed Contributors** _\(3 or more completed issues including at least 2 with medium complexity\)_
+   * Added to the "Confirmed Contributors" group on the Open Collective GitHub organization
+   * Become candidates to work on complex issues or projects on a negotiable per-project or hourly rate
 
