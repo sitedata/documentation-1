@@ -1,6 +1,6 @@
 # Setting up GitHub Sponsors
 
-**This document is a guide to connecting Github Sponsors for Organizations to your Collective. This option is currently only available for Collectives fiscally hosted by the Open Source Collective, which will hold the funds on behalf of your project.**
+**This document is a guide to connecting Github Sponsors for Organizations to your Collective. This option is currently only available for Collectives fiscally hosted by the [Open Source Collective](https://opencollective.com/opensource) (not Open Collective Europe or other fiscal hosts), which will hold the funds on behalf of your project.**
 
 _Note: Transaction data about the funds you receive through GitHub Sponsors will be shared with Open Source Collective in order to credit your budget._
 
