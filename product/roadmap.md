@@ -12,9 +12,9 @@ description: >-
 This \(short\) Quarter is all about shedding complexity: in our offer, in our codebase, in our UI.
 
 Offer:  
- Covid has given us an opportunity to position ourselves in a new vertical that has similar requirements than the Open Source one. Crisis Responders. I mean similar in the sense that they need a turn-key solution that includes a platform to fundraise and disburse funds paired with a fiscal host that can act as the custodian of the funds. We’ve struggled to replicate this outside of the FOSS ecosystem, but now we are seeing it again.
+ COVID-19 has given us an opportunity to position ourselves in a new vertical that has similar requirements than the Open Source one: Crisis Responders. Meaning similar in the sense that they need a turn-key solution that includes a platform to fundraise and disburse funds paired with a fiscal host that can act as the custodian of the funds. We’ve struggled to replicate this outside of the FOSS ecosystem, but now we are seeing it again.
 
-To make sure we support as many groups as possible in this vertical, we’ve waived our fees until June, we are hiring someone to manage the Open Collective Foundation \(501c3 that’s doing the fiscal hosting in the US\) and relaunched it with a focus on COVID. From the new collectives in march 175 are COVID related initiatives.
+To make sure we support as many groups as possible in this vertical, we’ve waived our fees until June, we are hiring someone to manage the Open Collective Foundation \(501c3 that’s doing the fiscal hosting in the US\) and relaunched it with a focus on COVID-19. From the new collectives in march 175 are COVID-19 related initiatives.
 
 The growth driven by COVID-19 Relief groups is an opportunity for us to focus our efforts on growing a new segment of collectives with a **First Party Host** \(this is a host we own, as opposed to a third party host, a legal entity that uses Open Collective Platform\). This is important for us, because we are providing a complete solution ourselves: Tax deductible fiscal sponsorship as a service paired with a transparent open finances platform.
 
