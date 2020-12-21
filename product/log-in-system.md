@@ -18,7 +18,7 @@ If you're a new user, you'll be prompted to create an account.
 
 It might sound counterintuitive, but passwords don’t always make things more secure. They can be hard to remember, and easy for fraudsters to guess. Not everyone uses a password manager, and people often don’t follow good password practices and either reuse passwords, or pick obvious ones \(ie. their country code, their birthday, etc\). Passwords can also make you more vulnerable to [phishing](http://www.phishing.org/what-is-phishing), a type of fraud where someone tricks you into telling them your password.
 
-Most websites allow you to reset your password by email, a feature fraudsters can use to work around any protection provided by a password. These websites start from the premise that if your email is compromised, your account will be too. The main way to avoid that is Two Factor Authentication \(2FA\), a feature that is currently implemented at Open Collective and should be available soon.
+Most websites allow you to reset your password by email, a feature fraudsters can use to work around any protection provided by a password. These websites start from the premise that if your email is compromised, your account will be too. The main way to avoid that is Two Factor Authentication \(2FA\), which [you can enable](https://docs.opencollective.com/help/fiscal-hosts/payouts/two-factor-authentication-for-payouts#enabling-2fa-for-login) on your Open Collective account.
 
 According to [Auth0](https://auth0.com/blog/is-passwordless-authentication-more-secure-than-passwords/): 
 
