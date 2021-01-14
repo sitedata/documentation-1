@@ -35,7 +35,7 @@ Your host is now ready to start accepting VAT. You still need to enable it on a 
 
 If the collective has a VAT number and should be responsible for collecting VAT itself, you can enable that by following the exact same steps than before, except that you'll choose the option `Use my own VAT number` on the last step.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%289%29%20%283%29.png)
 
 
 

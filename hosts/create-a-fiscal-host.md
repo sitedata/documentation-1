@@ -15,7 +15,7 @@ This can be the Collective for your host's budget \(to receive host fees if you 
 * **Type of host entity:** Select individual if you will be using your personal accounts, or select organization if you'll be representing a company or incorporated entity. 
 * **Select an organization:** Choose "create organization" and enter the details.
 
-![](../.gitbook/assets/screen-shot-2019-06-20-at-3.40.06-pm.png)
+![](../.gitbook/assets/screen-shot-2019-06-20-at-3.40.06-pm%20%281%29.png)
 
 **Connect your Stripe account**  
 Click the "connect Stripe" button. Create a Stripe account, or log into your existing account by clicking "sign in" in the upper right corner.

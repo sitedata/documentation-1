@@ -89,17 +89,17 @@ GitBook also created a few shortcodes for special attributes. Learn more about t
 
 **3.** Click on the pencil icon \(labeled "Edit this file"\). This will open a basic editing environment in which you are able to costumize aspects like line wrap and indentation.
 
-![Screenshot of a version of our Contributing page on GitHub showing the Edit this file button as a pencil icon.](../../.gitbook/assets/contributing_documentation_suggesting_changes_edit_this_file_2019-09-16.png)
+![Screenshot of a version of our Contributing page on GitHub showing the Edit this file button as a pencil icon.](../../.gitbook/assets/screen-shot-2019-04-29-at-4.42.55-pm.png)
 
 **4.** Make any edits you need, remembering to always format them using Markdown. To understand better GitBook's implementation of Markdown, check [their reference guide](https://docs.gitbook.com/content-editing/markdown) and our [style guide](https://github.com/opencollective/documentation/tree/0c915d6173307139ebeaaa50dccaba7d7149c9b2/contributing/documentation/contributing/documentation/style-guide/README.md).
 
 **5.** When you are done making changes, scroll down and write a short description of your changes. Select the option **Create a new branch for this commit and start a pull request** and click on **Propose file change**. This will direct you to the **Pull request** page.
 
-![Screenshot of the Commit changes box. There are boxes for a brief description of the changes, an extended one, a selection menu for email addresses to associate with the commit, options to commit directly to the current branch or to create a new branch and a pull request \(which opens an option to name your branch as you like\) and buttons to either Propose file change or Cancel.](../../.gitbook/assets/contributing_documentation_suggesting_changes_commit_and_propose_2019-04-29.png)
+![Screenshot of the Commit changes box. There are boxes for a brief description of the changes, an extended one, a selection menu for email addresses to associate with the commit, options to commit directly to the current branch or to create a new branch and a pull request \(which opens an option to name your branch as you like\) and buttons to either Propose file change or Cancel.](../../.gitbook/assets/screen-shot-2019-04-29-at-4.48.27-pm.png)
 
 **6.** On the **Pull request** page, write a short comment explaining why are proposing those changes \(e.g. improving readability, covering cases that weren't mentioned, adding critical details about our platform\) and publish your pull request clicking on **Create pull request**.
 
-![Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there&apos;s a Create pull request button.](../../.gitbook/assets/contributing_documentation_suggesting_changes_new_pull_request_2019-04-29.png)
+![Screenshot of the Pull request page. It shows a box for the title of the Pull request, another for any comments. Below them, there&apos;s a Create pull request button.](../../.gitbook/assets/contributing_documentation_suggesting_changes_new_pull_request_2019-04-29%20%281%29.png)
 
 {% hint style="success" %}
 Congratulations, you submitted a pull request! 🎉 Our documentation admins will review it and merge them to our documentation if approved.
