@@ -79,7 +79,7 @@ Finally, you will input bank account information. Funds you receive through GitH
 
 After that, you should be all set! ✌️😎
 
-## Frequently Asked Question
+## FAQ
 
 ### What fees will be charged?
 
@@ -91,4 +91,10 @@ Confusingly, GitHub and Open Collective use the word "organization" to mean two 
 
 * **On GitHub, you need to create an Organization** to use Sponsors for your project.
 * **On Open Collective, you need to create a Collective** for your project \(Organizations on Open Collective are a different profile type, for companies who sponsors open source projects, i.e. for paying money out not accepting money\).
+
+### What if Stripe asks for KYC info?
+
+Sometimes Stripe will ask for extra info as part of their normal security protocols. If this happens, you can provide Open Source Collective's organizational info as described above. 
+
+The address for KYC purposes is the same: 340 S LEMON AVE \#3717, Walnut CA 91789 USA. If they ask for anything you don't know the answer to, please contact support@opencollective.com.
 
