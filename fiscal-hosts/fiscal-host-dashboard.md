@@ -81,7 +81,7 @@ You will be prompted to either choose your global fee structure or to create a c
 This section needs additional documentation. You can contribute by editing this document on [https://github.com/opencollective/documentation/blob/v2/fiscal-hosts/fiscal-host-dashboard.md](https://github.com/opencollective/documentation/blob/v2/fiscal-hosts/fiscal-host-dashboard.md).
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 ### Financial contributions
 

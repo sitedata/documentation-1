@@ -44,6 +44,22 @@ Guest contributions are not yet supported for recurring contributions or in case
 
 ![Guest contribution form](../.gitbook/assets/image%20%285%29.png)
 
+### Claiming a guest account
+
+There are two ways to claim a guest account:
+
+#### 1. By clicking on "Join Open Collective" on the success page
+
+![](../.gitbook/assets/image%20%2837%29.png)
+
+You'll then get an email to register on Open Collective. Click on the given link and your account will be verified!
+
+![](../.gitbook/assets/image%20%2821%29.png)
+
+#### 2. By signin in
+
+Signin in directly by clicking on the "Sign in" button in the top navbar will have the same effect of verifying your account directly.
+
 ## Payment changes
 
 To view your current payment methods, go to your profile \(under 'my account'\) and click 'edit profile', then 'payment methods'.
@@ -62,7 +78,7 @@ If you have set up a repeating payment to a Collective, such as a monthly contri
 
 Open the dropdown menu and click on **Manage Contributions**.
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 You'll be redirected to a page with all of your recurring financial contributions. Click on the three dots on the top right of a financial contribution card to update your payment method, amount or cancel your financial contribution.
 
