@@ -6,7 +6,7 @@
 
 Click the **Dashboard** button on your host page, while logged in as host admin. Sometimes, this button can be nested inside the **Actions** menu.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ## What can I do on the host dashboard?
 
@@ -81,13 +81,13 @@ You will be prompted to either choose your global fee structure or to create a c
 This section needs additional documentation. You can contribute by editing this document on [https://github.com/opencollective/documentation/blob/v2/fiscal-hosts/fiscal-host-dashboard.md](https://github.com/opencollective/documentation/blob/v2/fiscal-hosts/fiscal-host-dashboard.md).
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 ### Financial contributions
 
 Shows all incoming contributions.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ### 
 
