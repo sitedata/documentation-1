@@ -21,7 +21,7 @@ Go to your profile menu \(top right\) and look for the My Organizations section.
 
 Once set up, you will be able to select your individual or organization profile when making a contribution.
 
-![](../../.gitbook/assets/organizations_new_organization_page.png)
+![The &quot;create new organization&quot; form](../../.gitbook/assets/screenshot-2021-01-25-at-11.24.37.png)
 
 ### **If you don't have an individual profile yet**
 

@@ -100,7 +100,7 @@ Most of the projects related with interface design will be hosted inside the [02
 
 The next level is each individual file, that may include several interface elements, pages and flows of the platform and the website, it looks something like [this](https://www.figma.com/file/e71tBo0Sr8J7R5n6iMkqI42d/OC.COM-07-%2F-Collectives?node-id=182%3A0):
 
-![](../../.gitbook/assets/figma-file-visualization.png)
+![](../../.gitbook/assets/figma-file-visualization%20%281%29.png)
 
 Here you can obtain assets, individual characteristics of each elements and make specific questions.
 
@@ -118,7 +118,7 @@ Every task is linked with the OpenCollective team and the code repository throug
 
 We break down big goals to specific tasks using the following logic:
 
-![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_breakdown-tasks-2019-07-09.png)
+![](../../.gitbook/assets/contributing_design_design-contributing-guidelines_breakdown-tasks-2019-07-09%20%281%29.png)
 
 There are different ways to get in the loop of design-related tasks in GitHub:
 
@@ -136,7 +136,7 @@ TeamWeek is the platform where our progress will be tracked and communicated wit
 
 When you first enter TeamWeek you see again the same effort breakdown:
 
-![](../../.gitbook/assets/10.png)
+![](../../.gitbook/assets/10%20%281%29.png)
 
 Inside any of those roadmaps you will see something like this:
 
@@ -164,5 +164,5 @@ In order to achieve this common ground, the design collective has created a **co
 
 The following diagram describes the ideal workflow of a sprint of 10 working days, all the way from planning the sprint to the demo day where the series of design solutions are presented with a public release.
 
-![](../../.gitbook/assets/2%20%283%29.png)
+![](../../.gitbook/assets/2%20%283%29%20%282%29.png)
 
