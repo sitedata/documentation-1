@@ -60,6 +60,7 @@
 * [Closing a Collective](collectives/closing-a-collective.md)
 * [Connected Collectives](collectives/connectedcollectives.md)
 * [Setting up GitHub Sponsors](collectives/github-sponsors.md)
+* [Embed contribution flow](collectives/embed-contribution-flow.md)
 
 ## Financial Contributors
 
