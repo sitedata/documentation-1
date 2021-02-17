@@ -57,6 +57,9 @@ If you're already in the beta test group, you can follow these instructions:
    3. Name this key after Open Collective so you can easily track it.
    4. Download and attach [our Public Key](https://raw.githubusercontent.com/opencollective/documentation/v2/files/oc-public.pem) using right-click and _Save As..._;
    5. Click on _Add Key._
+   6. Click on _Turn on SCA._
+
+      ![](../../.gitbook/assets/image%20%286%29.png)
 10. Lastly, we'll create a webhook to make sure transactions are updated in realtime, for that we'll return once again to your TransferWise settings page;
 11. Select _Webhooks_ and then _Create a new webhook_: ![](../../.gitbook/assets/kapture-2020-05-13-at-10.35.47.gif)
     * Name this webhook after Open Collective.
