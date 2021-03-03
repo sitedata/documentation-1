@@ -40,7 +40,7 @@ Aix-en-Provence, France
 
 [Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree)
 
-## **Leo**
+## **Leo Kewitz**
 
 Core contributor  
 Senior Software Engineer  
