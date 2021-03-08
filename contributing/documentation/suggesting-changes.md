@@ -240,7 +240,7 @@ Sometimes you may find broken internal links. If you find one, please open an is
 
 But if you have access to the GitBook interface, here's what you should do to fix it yourself:
 
-1. Check the `master` branch on GitHub for an old version of the page with the broken link. That will help you figure out to which page that link was originally pointing to.
+1. Check the `main` branch on GitHub for an old version of the page with the broken link. That will help you figure out to which page that link was originally pointing to.
 2. Sometimes it will be just a matter of updating `.gitbook.yaml` to point that specific path to the right page. But other times \(probably when we make aggressive changes to the folder structure—their versioning system doesn't seem to like it that much\), you will have to update that link manually. To do so, hover your mouse to the old link and edit it by searching for the title of the page to be mentioned.
 
 ![](../../.gitbook/assets/contributing_documentation_suggesting-changes_dead-links_2020-01-29.gif)

@@ -186,5 +186,5 @@ Just go to [https://crowdin.com/project/opencollective/settings\#translations](h
 
 #### Activate the language in the code
 
-To activate a language on the website, we usually wait to have a correct translated ratio \(20-30%\). Then activate it by adding a new line in [https://github.com/opencollective/opencollective-frontend/blob/master/lib/constants/locales.js](https://github.com/opencollective/opencollective-frontend/blob/master/lib/constants/locales.js).
+To activate a language on the website, we usually wait to have a correct translated ratio \(20-30%\). Then activate it by adding a new line in [https://github.com/opencollective/opencollective-frontend/blob/main/lib/constants/locales.js](https://github.com/opencollective/opencollective-frontend/blob/main/lib/constants/locales.js).
 

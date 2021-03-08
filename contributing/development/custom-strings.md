@@ -20,5 +20,5 @@ Then you can submit a pull request, like this one :-\) [https://github.com/openc
 
 ### Custom email receipts & notifications
 
-[https://github.com/OpenCollective/opencollective-api/tree/master/templates/emails](https://github.com/OpenCollective/opencollective-api/tree/master/templates/emails)
+[https://github.com/OpenCollective/opencollective-api/tree/main/templates/emails](https://github.com/OpenCollective/opencollective-api/tree/main/templates/emails)
 

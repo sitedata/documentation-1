@@ -43,7 +43,7 @@ User has a strange behavior with a feature, or is abusing a specific one. We wan
 
 Set `User.data.features.{FEATURE_NAME}` to `false`
 
-To see a list of all features names, check [https://github.com/opencollective/opencollective-api/blob/master/server/constants/features.ts](https://github.com/opencollective/opencollective-api/blob/master/server/constants/features.ts)
+To see a list of all features names, check [https://github.com/opencollective/opencollective-api/blob/main/server/constants/features.ts](https://github.com/opencollective/opencollective-api/blob/main/server/constants/features.ts)
 
 **Example**
 
@@ -87,7 +87,7 @@ AND c."deletedAt" IS NULL
 
 Make sure you re-run the first query with these new entries to make sure it's safe to ban them.
 
-Please refer to [this query](https://github.com/opencollective/opencollective-api/blob/master/sql/ban-collectives.sql) to ban users and collectives from the platforms. You'll need to input a list of collective slugs to the query. When banning a user, all the related data \(memberships, expenses, comments...etc\) are \(soft-\) deleted. A special flag is set in `user.data.isBanned` is set to `true`.
+Please refer to [this query](https://github.com/opencollective/opencollective-api/blob/main/sql/ban-collectives.sql) to ban users and collectives from the platforms. You'll need to input a list of collective slugs to the query. When banning a user, all the related data \(memberships, expenses, comments...etc\) are \(soft-\) deleted. A special flag is set in `user.data.isBanned` is set to `true`.
 
 User's email will be locked in database, to that it will be impossible for the user to register with the same email address.
 

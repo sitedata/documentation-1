@@ -45,7 +45,7 @@ VALUES ((SELECT id from "Groups" where slug = '<group slug>'),
 `type` \(would actually be more properly named `activity`\) can be:
 
 * either `'all'` \(\*\) to send notifications for all activities \(group transaction created, payment received from Stripe, etc\)
-* or some constant from [here](https://github.com/OpenCollective/opencollective-api/blob/master/server/constants/activities.js) to only send notifications for a specific activity
+* or some constant from [here](https://github.com/OpenCollective/opencollective-api/blob/main/server/constants/activities.js) to only send notifications for a specific activity
 
-[Some activities](https://github.com/OpenCollective/opencollective-api/blob/master/server/constants/activities.js#L6) are not linked to any group and will therefore be ignored.
+[Some activities](https://github.com/OpenCollective/opencollective-api/blob/main/server/constants/activities.js#L6) are not linked to any group and will therefore be ignored.
 
