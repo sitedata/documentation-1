@@ -50,16 +50,14 @@ Brazil
 
 ## **Guillermo Esparza**
 
-Core contributor
-Designer  
+Core contributor Designer  
 Guadalajara, Mexico
 
 [Github](https://github.com/Memo-Es)
 
 ## **Amina Kazi**
 
-Core contributor
-Designer  
+Core contributor Designer
 
 ## **Darío Muñoz**
 

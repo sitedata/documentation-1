@@ -19,7 +19,7 @@ People are _individuals_. **They can form** _entities_ inside Open Collective, l
 
 Human beings with names. An individual signs up to Open Collective with their email address. An individual can take on different roles throughout the platform.
 
-### Organizations ![](../.gitbook/assets/about_terminology_organization_2019-07-09%20%281%29%20%282%29%20%281%29.png)
+### Organizations ![](../.gitbook/assets/about_terminology_organization_2019-07-09%20%281%29%20%282%29%20%282%29%20%281%29.png)
 
 An [Organization](../financial-contributors/organizations/) represents a company or legal entity in the world, with a shared identity, bank account, credit card, and resources. This is often how Sponsors engage on the platform.
 
@@ -27,7 +27,7 @@ An [Organization](../financial-contributors/organizations/) represents a company
 
 Individual\(s\) who create and/or manage the Organization profile. They have rights to edit the settings of the Organization, set up financial contributions to Collectives, and set up gift cards, among other things.
 
-### Fiscal Hosts ![](../.gitbook/assets/fiscal-host%20%282%29%20%281%29.png)
+### Fiscal Hosts ![](../.gitbook/assets/fiscal-host%20%282%29%20%282%29%20%281%29.png)
 
 A [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) is a type of Organization.
 
@@ -39,7 +39,7 @@ Individual\(s\) who create and/or manage the Fiscal Host are responsible for app
 
 Fiscal Host admins want tools and workflows to easily manage their tasks \(paying expenses and approving new Collectives\). They need to charge their fees and keep a useful accounting system. They are often the first point of contact for the Core Contributors of Collectives they host, and many are super-users.
 
-### Collectives ![](../.gitbook/assets/about_terminology_collective_2019-07-09%20%281%29.png)
+### Collectives ![](../.gitbook/assets/about_terminology_collective_2019-07-09%20%281%29%20%281%29.png)
 
 The primary entity most representative of the basis of our platform. A Collective represents a project or group that has a mission or purpose in the world, which they raise and spend funds transparently to achieve.
 
@@ -69,11 +69,11 @@ Individuals who register to attend a Collective's event. They often arrive throu
 
 > The word we will use for "someone who contributes to a project" is "contributor". The buttons on tiers will say "contribute".
 
-![](../.gitbook/assets/7%20%282%29%20%282%29.png)
+![](../.gitbook/assets/7%20%282%29%20%282%29%20%282%29.png)
 
 ## Financial Contributors
 
-### **Organizational Financial Contributor** ![](../.gitbook/assets/about_terminology_organization_2019-07-09%20%281%29%20%282%29.png)
+### **Organizational Financial Contributor** ![](../.gitbook/assets/about_terminology_organization_2019-07-09%20%281%29%20%282%29%20%282%29.png)
 
 A company that supports a Collective financially, often at a higher tier. This is often called sponsorship in practice, but can go by other names depending on the Collective's context, such as base supporters, members, etc.
 
@@ -104,7 +104,7 @@ An individual who requests payment from the Collective's budget using the [expen
 
 ## Non-financial Contributors
 
-### Fiscal Hosts ![](../.gitbook/assets/fiscal-host%20%282%29.png)
+### Fiscal Hosts ![](../.gitbook/assets/fiscal-host%20%282%29%20%282%29.png)
 
 Supporting Collectives by providing the legal and financial infrastructure needed to accept money and make payments.
 

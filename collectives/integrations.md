@@ -1,5 +1,11 @@
 # Integrations
 
+## Custom Integration \(webhooks\)
+
+Go to your settings, click on "Webhooks" then select the type and enter the URL for your webhook.
+
+![](../.gitbook/assets/selection_002.png)
+
 ## Twitter Integration
 
 Connect your Twitter to automatically thank new backers who contribute to your Collective! To do so, go to your Collective page, click on the gear icon and head to the **Connected Accounts** page.
