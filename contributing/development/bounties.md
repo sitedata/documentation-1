@@ -46,6 +46,12 @@ We want to attract quality contributions. The issue will only be considered comp
 
 _See_ [_more info about getting paid_](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) _through Open Collective_
 
+{% hint style="warning" %}
+Issues tagged as "**bounty candidate**" are issues that we are considering to add bounties for, but that are not bounties yet - either because they lack proper specifications, a team consensus, or because we don't have the bandwidth to review it at the moment. Feel free to comment on such issues to ask for a bounty to be added if it's something you're willing to work on. 
+
+**Financial compensation can only happen if the issue has a "bounty" tag with a pre-defined amount.** In other words, completing a bounty candidate that didn't receive the "bounty" tag will not make you eligible for the bounty program.
+{% endhint %}
+
 #### Workflow for Core Contributors
 
 1. Make sure the issue is understandable for newcomers and expectations are clearly set
