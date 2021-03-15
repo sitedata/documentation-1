@@ -249,7 +249,7 @@ These are the [development contribution guides](https://docs.opencollective.com/
 
 [Changelog](http://changelog.opencollective.com) for our updated release notes. 
 
-You can find RFCs folder [here](https://github.com/opencollective/opencollective/tree/master/rfcs). 
+You can find RFCs folder [here](https://github.com/opencollective/opencollective/tree/main/rfcs). 
 
 ## Onboarding checklist
 

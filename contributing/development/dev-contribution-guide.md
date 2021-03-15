@@ -62,7 +62,7 @@ Setting up the frontend is straightforward. We've provided a comprehensive guide
 
 #### Setup guide
 
-> [https://github.com/opencollective/opencollective-frontend/blob/master/README.md](https://github.com/opencollective/opencollective-frontend/blob/master/README.md)
+> [https://github.com/opencollective/opencollective-frontend/blob/main/README.md](https://github.com/opencollective/opencollective-frontend/blob/main/README.md)
 
 _NOTE: If you're only contributing frontend code, you don't need to setup the API._
 
@@ -74,7 +74,7 @@ Just like the frontend, we have a separate document for the setup.
 
 #### Setup guide
 
-> [https://github.com/opencollective/opencollective-api/blob/master/README.md](https://github.com/opencollective/opencollective-api/blob/master/README.md)
+> [https://github.com/opencollective/opencollective-api/blob/main/README.md](https://github.com/opencollective/opencollective-api/blob/main/README.md)
 
 ## Others
 
@@ -86,7 +86,7 @@ Like to contribute to our design? Checkout our [design contribution guidelines](
 
 Before you make your first commit, read through our commit convention, provided in the link below:
 
-> [https://github.com/opencollective/opencollective-frontend/blob/master/CONTRIBUTING.md](https://github.com/opencollective/opencollective-frontend/blob/master/CONTRIBUTING.md)
+> [https://github.com/opencollective/opencollective-frontend/blob/main/CONTRIBUTING.md](https://github.com/opencollective/opencollective-frontend/blob/main/CONTRIBUTING.md)
 
 ### Bounty Program
 
