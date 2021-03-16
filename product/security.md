@@ -30,7 +30,7 @@ Open Collective doesn't store any credit card number, we're instead relying on o
 
 ## Login system
 
-According to [Auth0](https://auth0.com/blog/is-passwordless-authentication-more-secure-than-passwords/): 
+According to [Auth0](https://auth0.com/blog/is-passwordless-authentication-more-secure-than-passwords/):
 
 > Passwordless authentication, by its nature, eliminates the problem of using an unsafe password. This means that one of the biggest user errors is taken out of your login. Not only is passwordless authentication safe to use, it might even be safer than a traditional username + password login.
 

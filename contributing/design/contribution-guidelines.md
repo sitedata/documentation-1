@@ -136,7 +136,7 @@ TeamWeek is the platform where our progress will be tracked and communicated wit
 
 When you first enter TeamWeek you see again the same effort breakdown:
 
-![](../../.gitbook/assets/10%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/10%20%281%29%20%281%29%20%281%29.png)
 
 Inside any of those roadmaps you will see something like this:
 

@@ -1,69 +1,81 @@
+---
+description: >-
+  Open Collective Inc has a small, fully remote team with members around the
+  world. You're welcome to reach out to us on our open Slack or on social media.
+---
+
 # Team
 
-## **Pia Mancini**
+### **Pia Mancini**
 
-Core contributor  
 Co-founder & CEO  
 Madrid, Spain
 
 [Twitter](https://twitter.com/piamancini%20), [LinkedIn](https://www.linkedin.com/in/piamancini/)
 
-## **Xavier Damman**
+### **François Hodierne**
 
-Core contributor  
-Co-founder  
-Brussels, Belgium
-
-[Twitter](https://twitter.com/xdamman), [LinkedIn](https://www.linkedin.com/in/xavierdamman)
-
-## **François Hodierne**
-
-Core contributor  
-Engineering Director  
+CTO  
 Berlin, Germany
 
 [Twitter](https://twitter.com/znarf), [GitHub](https://github.com/znarf)
 
-## **Alanna Irving**
+### **Alanna Irving**
 
-Core contributor  
-Open Source Collective executive director  
+COO  
 Wellington, New Zealand
 
 [Website](https://alanna.space), [LinkedIn](https://www.linkedin.com/in/alannairving83/)
 
-## **Benjamin Piouffle**
+### **Benjamin Nickolls**
 
-Core contributor  
+CPO  
+Shropshire, UK
+
+[Twitter](https://twitter.com/BenJam), [GitHub](https://github.com/BenJam)
+
+### **Benjamin Piouffle**
+
 Senior Software Engineer  
 Aix-en-Provence, France
 
 [Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree)
 
-## **Leo Kewitz**
+### **Leo Kewitz**
 
-Core contributor  
 Senior Software Engineer  
 Brazil
 
 [GitHub](https://github.com/kewitz)
 
-## **Guillermo Esparza**
+### **Guillermo Esparza**
 
-Core contributor Designer  
+Designer  
 Guadalajara, Mexico
 
 [Github](https://github.com/Memo-Es)
 
-## **Amina Kazi**
+### **Alina Manko**
 
-Core contributor Designer
+User support and financial admin  
+Wellington, New Zealand
 
-## **Darío Muñoz**
+### **Amina Kazi**
 
-Core contributor  
 Designer  
-Guadalajara, Mexico
+India
 
-[Twitter](https://twitter.com/cuiki), [Website](http://www.tafka.mx/)
+### Shannon Wray
+
+Documentation  
+Auckland, New Zealand
+
+## Advisors
+
+**Xavier Damman**
+
+Original founder  
+Brussels, Belgium
+
+[Twitter](https://twitter.com/xdamman), [LinkedIn](https://www.linkedin.com/in/xavierdamman)
 

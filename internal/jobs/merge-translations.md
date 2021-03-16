@@ -21,5 +21,3 @@ Crowdin opens a branch at `i18n/crowdin` . It's good to merge this branch at lea
 4. Push the result, wait for CI to pass.
 5. **SQUASH** and merge the changes. Don't forget to **Squash**! This is really important, Crowdin sometimes pushes hundreds of commits, we don't want to overload the history.
 
-
-

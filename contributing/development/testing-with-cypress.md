@@ -30,9 +30,9 @@ Both the `cy.login` and `cy.signup` commands accept a redirect parameter. You ca
 **`cy.login({email, redirect} = params)`**
 {% endhint %}
 
-Login with an existing account. If not provided in `params`, the email used for authentication will be `testuser+admin@opencollective.com`. 
+Login with an existing account. If not provided in `params`, the email used for authentication will be `testuser+admin@opencollective.com`.
 
-Note that addresses formatted like `test*@opencollective.com` are a special case that let you login directly without the need to confirm your email. You can use the `randomEmail` helper to generate these. If you want to specifically create a host admin user please use, `test*+host@opencollective.com` (i.e: the email should end with `host@opencollective.com`). 
+Note that addresses formatted like `test*@opencollective.com` are a special case that let you login directly without the need to confirm your email. You can use the `randomEmail` helper to generate these. If you want to specifically create a host admin user please use, `test*+host@opencollective.com` \(i.e: the email should end with `host@opencollective.com`\).
 
 {% hint style="info" %}
 **`cy.signup({user, redirect} = params)`**
