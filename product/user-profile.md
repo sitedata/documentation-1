@@ -6,27 +6,27 @@ You can use your Open Collective user profile to let people know a bit about you
 
 You can access your profile settings by using the dropdown menu on your username and going to the **Profile** page.
 
-![](../.gitbook/assets/product_user-profile_dropdown-menu_2019-11-15.png)
+![](../.gitbook/assets/screen-shot-2021-03-23-at-8.05.20-pm.png)
 
 On your **Profile** page, you are able to customize the following:
 
 ### Cover image
 
-![](../.gitbook/assets/product_user-profile_profile-options_2019-11-15.png)
+![](../.gitbook/assets/screen-shot-2021-03-23-at-8.07.27-pm.jpg)
 
 Click on **Edit cover** to access to upload a new cover image.
 
-![](../.gitbook/assets/product_user-profile_cover-options_2019-11-15%20%281%29.png)
+![](../.gitbook/assets/screen-shot-2021-03-23-at-8.18.30-pm.png)
 
 After uploading a image, you are able to adjust it as you wish by either moving it and zooming in and out.
 
-![Moving the image around](../.gitbook/assets/product_user-profile_cover-move_2019-11-15.gif)
+![](../.gitbook/assets/videotwo.gif)
 
-![Zooming in and out](../.gitbook/assets/product_user-profile_cover-zoom_2019-11-15.gif)
+![](../.gitbook/assets/videoone%20%281%29.gif)
 
 ### Main color
 
-![](../.gitbook/assets/product_user-profile_profile-edit-main-color_2019-11-15.png)
+![](../.gitbook/assets/editmaincolour.jpg)
 
 You can either choose any of the preset colors, add your own custom color or reset to the default color.
 
