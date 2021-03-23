@@ -22,7 +22,7 @@ The embed contribution flow is a way to integrate Open Collective on your own we
 The simplest way to embed the contribution flow is by using the `/donate` URL \(e.g. [https://opencollective.com/babel/donate](https://opencollective.com/babel/donate)\). Just replace `COLLECTIVE_SLUG` by your collective slug below:
 
 ```markup
-<iframe src="https://opencollective.com/embed/COLLECTIVE_SLUG/donate" />
+<iframe src="https://opencollective.com/embed/COLLECTIVE_SLUG/donate" style="width: 100%; min-height: 100vh;" />
 ```
 
 ## Embed a specific tier
@@ -32,6 +32,6 @@ To embed a specific tier, you'll need to know its ID. For that, go to your profi
 From this URL, you can deduct the embedded one \(prefix with `embed` and removes `/checkout`\):
 
 ```markup
-<iframe src="https://opencollective.com/embed/COLLECTIVE_SLUG/contribute/TIER_SLUG-TIER_ID" />
+<iframe src="https://opencollective.com/embed/COLLECTIVE_SLUG/contribute/TIER_SLUG-TIER_ID" style="width: 100%; min-height: 100vh;" />
 ```
 
