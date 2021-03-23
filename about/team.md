@@ -18,7 +18,7 @@ Madrid, Spain
 CTO  
 Berlin, Germany
 
-[Twitter](https://twitter.com/znarf), [GitHub](https://github.com/znarf)
+[Twitter](https://twitter.com/znarf), [GitHub](https://github.com/znarf), [Linkedin ](https://www.linkedin.com/in/francoishodierne/)
 
 ### **Alanna Irving**
 
@@ -32,33 +32,35 @@ Wellington, New Zealand
 CPO  
 Shropshire, UK
 
-[Twitter](https://twitter.com/BenJam), [GitHub](https://github.com/BenJam)
+[Twitter](https://twitter.com/BenJam), [GitHub](https://github.com/BenJam), [Linkedin](https://www.linkedin.com/in/benjamuk/)
 
 ### **Benjamin Piouffle**
 
 Senior Software Engineer  
 Aix-en-Provence, France
 
-[Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree)
+[Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree), [Linkedin ](https://www.linkedin.com/in/benjaminpiouffle/)
 
 ### **Leo Kewitz**
 
 Senior Software Engineer  
 Brazil
 
-[GitHub](https://github.com/kewitz)
+[GitHub](https://github.com/kewitz),[ Linkedin](https://www.linkedin.com/in/kewitz/)
 
 ### **Guillermo Esparza**
 
 Designer  
 Guadalajara, Mexico
 
-[Github](https://github.com/Memo-Es)
+[Github](https://github.com/Memo-Es), [Linkedin](https://www.linkedin.com/in/memo-es/)
 
 ### **Alina Manko**
 
 User support and financial admin  
 Wellington, New Zealand
+
+[Linkedin ](https://www.linkedin.com/in/alinamanko/)
 
 ### **Amina Kazi**
 
@@ -69,6 +71,8 @@ India
 
 Documentation  
 Auckland, New Zealand
+
+[Linkedin ](https://www.linkedin.com/in/shannonwray)
 
 ## Advisors
 
