@@ -61,15 +61,18 @@ SELECT email FROM "Users" where "deletedAt" is null
 ## Fetch email addresses of all admins of collectives on a given host
 
 ```sql
-SELECT c.slug as collective, uc.slug as profile, m.role, u.email
+SELECT array_agg(DISTINCT c.slug) as collectives, uc.slug as profile, u.email
 FROM "Members" m
 LEFT JOIN "Collectives" uc ON uc.id = m."MemberCollectiveId"
 LEFT JOIN "Collectives" c ON c.id = m."CollectiveId"
 LEFT JOIN "Users" u ON u."CollectiveId" = m."MemberCollectiveId"
-WHERE m.role='ADMIN' AND m."CollectiveId" IN (SELECT "CollectiveId" FROM "Members" WHERE role = 'HOST' AND "MemberCollectiveId"=11004)
+WHERE m.role='ADMIN' 
+AND m."CollectiveId" IN (SELECT "CollectiveId" FROM "Members" WHERE role = 'HOST' AND "MemberCollectiveId"=:hostCollectiveId)
 AND u.email IS NOT NULL
 AND c."isActive" IS TRUE
 AND c."deletedAt" IS NULL
+AND m."deletedAt" IS NULL
+GROUP BY u.id, uc.id
 ```
 
 ## Opt-in newsletter emails
