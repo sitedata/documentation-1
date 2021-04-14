@@ -89,7 +89,7 @@ You can also add a private note to the admins. Once your expense is ready, click
 
 It is also possible to draft an expense and send it to a third-party to edit and submit it. You can send a drafted expense to an existing user of the platform or to someone else that is not on the platform yet.
 
-Inviting a third-party user or organization to submit an expense automatically creates a draft of the expense and emails the user so they can finish editing it and submit to the collective.
+Inviting a third-party user or organization to submit an expense automatically creates a draft of the expense and emails the user so they can finalise any final details and submit to the collective.
 
 Notice, although the invited user will pick who's going to be paid for the expense, the created expense will display you as the user who requested it:
 
@@ -97,7 +97,7 @@ Notice, although the invited user will pick who's going to be paid for the expen
 
 ### Inviting an existing user
 
-To invite an existing user, search for an existing user in the payee selection dropdown. After selecting the user, you'll be able to add a title to the expense, optional items, and a note to the recipient that will be sent in the email.
+To invite an existing user, search for an existing user in the payee selection dropdown. ExAfter selecting the user, you'll be able to add a title to the expense, optional items, and a note to the recipient that will be sent in the email.
 
 ![](../.gitbook/assets/deepin-screen-recorder_select-area_20201116162535.gif)
 
