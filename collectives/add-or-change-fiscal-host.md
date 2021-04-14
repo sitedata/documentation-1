@@ -14,5 +14,5 @@ If you are an open source project with at least 100 stars on GitHub \(or equival
 
 To see your Fiscal Host options, go to your Collective Page, click on the gear icon and head to the **Fiscal Host** page.
 
-![](../.gitbook/assets/screen-shot-2019-05-05-at-3.02.05-pm.png)
+![](../.gitbook/assets/screen-shot-2021-04-14-at-6.33.13-pm.png)
 
