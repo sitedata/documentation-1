@@ -29,7 +29,7 @@ Individual\(s\) who create and/or manage the Organization profile. They have rig
 
 **Funds**
 
-A [Fund](%20https://docs.opencollective.com/help/financial-contributors/organizations/funds) is a 
+A [Fund](%20https://docs.opencollective.com/help/financial-contributors/organizations/funds), with a capital F, \(as opposed to a [Collective](terminology.md#user)\) is a streamlined, single payer process for supporters. A **Fund** is likely less interested in the 'social' & crowdfunding aspects of fundraising. This type of account will have a more simplified version of our dashboard for those who don't want all the extra features that group-organizing benefits from. 
 
 ### Fiscal Hosts ![](../.gitbook/assets/fiscal-host%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
