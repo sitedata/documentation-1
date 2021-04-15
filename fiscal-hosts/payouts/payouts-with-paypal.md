@@ -82,31 +82,10 @@ If you're already in the beta test group, you can follow these instructions:
 
 ![](../../.gitbook/assets/screen-record-from-2020-07-10-13.30.21.gif)
 
-* [ ] Add a webhook notification
-  * Scroll your page down until you see the Webhook section.
-  * Click in _Add Webhook._
-  * Point to the URL `https://api.opencollective.com/webhooks/paypal`.
-  * Select the following events:
-    * `Payment payouts-item blocked`
-    * `Payment payouts-item canceled`
-    * `Payment payouts-item denied`
-    * `Payment payouts-item failed`
-    * `Payment payouts-item held`
-    * `Payment payouts-item refunded`
-    * `Payment payouts-item returned`
-    * `Payment payouts-item succeeded`
-    * `Payment payouts-item unclaimed`
-    * `Payment payoutsbatch denied`
-    * `Payment payoutsbatch processing`
-    * `Payment payoutsbatch success`
-  * Click _Save._
-
-![](../../.gitbook/assets/create_webhook.gif)
-
 * [ ] Now, let's copy the necessary information to Open Collective.
   * Open a new tab and go to [Open Collective](https://www.opencollective.com).
-  * Open your Host collective settings page and click in the _Sending Money_ option in the menu.
-  * Copy and paste _Client ID, Secret,_ and _Webhook ID_ in the respective fields.
+  * Open your Host collective settings page and click on the _Sending Money_ option in the menu.
+  * Copy and paste _Client ID_ and _Secret_ in the respective fields.
   * Click _Connect PayPal_
 
 ![](../../.gitbook/assets/connect_paypal.gif)
@@ -117,7 +96,7 @@ Done! Next time you pay for an expense submitted with PayPal and you select the 
 
 ### Reducing Risks
 
-In order to reduce risks related to having an active API token that is able to create and fund transactions, we strongly suggest you to:
+In order to reduce risks related to having an active API token that is able to create and fund transactions, we strongly suggest you:
 
 1. Keep just enough balance in PayPal to pay your expenses.
    * This can be achieved by calculating the amount needed for the current payment cycle and transferring it beforehand.
