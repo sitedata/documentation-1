@@ -88,7 +88,7 @@ If you're already in the beta test group, you can follow these instructions:
   * Copy and paste _Client ID_ and _Secret_ in the respective fields.
   * Click _Connect PayPal_
 
-![](../../.gitbook/assets/connect_paypal.gif)
+![](../../.gitbook/assets/peek-2021-04-15-16-00.gif)
 
 Done! Next time you pay for an expense submitted with PayPal and you select the automatic method, your expense will be marked as _Scheduled for Payment_ and processed using PayPal Payouts!
 
