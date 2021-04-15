@@ -27,6 +27,10 @@ An [Organization](../financial-contributors/organizations/) represents a company
 
 Individual\(s\) who create and/or manage the Organization profile. They have rights to edit the settings of the Organization, set up financial contributions to Collectives, and set up gift cards, among other things.
 
+**Funds**
+
+A [Fund](%20https://docs.opencollective.com/help/financial-contributors/organizations/funds) is a 
+
 ### Fiscal Hosts ![](../.gitbook/assets/fiscal-host%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 A [Fiscal Host](../fiscal-hosts/fiscal-hosts.md) is a type of Organization.
