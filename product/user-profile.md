@@ -20,13 +20,13 @@ Click on **Edit cover** to access to upload a new cover image.
 
 After uploading a image, you are able to adjust it as you wish by either moving it and zooming in and out.
 
-![](../.gitbook/assets/videotwo.gif)
+![](../.gitbook/assets/product_user_profile_moving_2021-04-20.gif)
 
-![](../.gitbook/assets/videoone%20%281%29.gif)
+![](../.gitbook/assets/product_user_profile_zooming_2021-04-20.gif)
 
 ### Main color
 
-![](../.gitbook/assets/editmaincolour.jpg)
+![](../.gitbook/assets/product_userprofile_editmaincolour_2021-04-20.jpg)
 
 You can either choose any of the preset colors, add your own custom color or reset to the default color.
 
