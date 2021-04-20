@@ -9,7 +9,6 @@
 * [Company](about/company.md)
 * [Pricing](about/pricing.md)
 * [Community Guidelines](about/community-guidelines.md)
-* [Values](about/values.md)
 * [Team](about/team.md)
 * [The Open Collective Way](about/the-open-collective-way/README.md)
   * [Values](about/the-open-collective-way/values.md)
