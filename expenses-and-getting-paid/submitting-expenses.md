@@ -97,7 +97,7 @@ Notice, although the invited user will pick who's going to be paid for the expen
 
 ### Inviting an existing user
 
-To invite an existing user, search for an existing user in the payee selection dropdown. ExAfter selecting the user, you'll be able to add a title to the expense, optional items, and a note to the recipient that will be sent in the email.
+To invite an existing user, search for an existing user in the payee selection dropdown. After selecting the user, you'll be able to add a title to the expense, optional items, and a note to the recipient that will be sent in the email.
 
 ![](../.gitbook/assets/deepin-screen-recorder_select-area_20201116162535.gif)
 
