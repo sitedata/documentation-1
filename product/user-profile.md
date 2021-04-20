@@ -68,8 +68,6 @@ If your account has a history of transactions, your only option is archiving you
 
 To archive your account, go to the **Archive this Account** section and click on **Archive this account**.
 
-![](../.gitbook/assets/product_user-profile_advanced_archive_2019-11-15%20%281%29.png)
-
 ![](../.gitbook/assets/product_user-profile_advanced_archive_2019-11-15.gif)
 
 ## Using Open Collective Anonymously
