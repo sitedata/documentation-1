@@ -26,21 +26,21 @@ After uploading a image, you are able to adjust it as you wish by either moving 
 
 ### Main color
 
-![](../.gitbook/assets/product_userprofile_editmaincolour_2021-04-20.jpg)
+![](../.gitbook/assets/product_user_profile_edit_main_color_2021-04-21.png)
 
 You can either choose any of the preset colors, add your own custom color or reset to the default color.
 
-![](../.gitbook/assets/product_user-profile_accent-color-change-and-reset_2019-11-15.gif)
+![](../.gitbook/assets/profile_user_profile_choosing_color_2021-04-21.gif)
 
 ### Other settings
 
-![](../.gitbook/assets/product_user-profile_profile-settings_2019-11-15.png)
+![](../.gitbook/assets/product_user_profile_settings_2021-04-21.png)
 
 To access other settings, click on the gear icon next to your profile image.
 
-![](../.gitbook/assets/product_user-profile_other-settings_2019-11-15.png)
+![](../.gitbook/assets/product_user_prodile_settings_page_2021-04-21.png)
 
-Here you are able to edit basic info such as **Name**, **Company**, **Short description**, **URL slug**, and access other settings such as **Payment Methods**, **Connected Accounts**, **Webhooks** and **Advanced**.
+Here you are able to edit basic info such as **Name**, **Company**, **Short description**, **URL slug**, and access other settings such as **Profile Page**, **Payment Methods**, **Payment Receipts**, **Webhooks, Two-factor authentication** and **Advanced**.
 
 ## Advanced settings
 
