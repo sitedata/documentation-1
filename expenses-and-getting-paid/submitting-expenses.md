@@ -107,7 +107,15 @@ The invited user will receive a notification by email containing a link with a k
 
 It is also possible to invite a user that does not have an account on the platform to submit an expense. To do that, simply select the option _Invite someone to submit an expense,_ and inform their name and email:
 
-![](../.gitbook/assets/deepin-screen-recorder_select-area_20201116195917.gif)
+![](../.gitbook/assets/expensesandgettingpaid_submittingexpenses_invitingnewuser_2021_4_8.gif)
+
+
+
+You are now able to _add additional information about the expense._ Pre-fill whatever info you already have, then invite the payee to fill in the rest and confirm. This can make the whole process a lot easier!
+
+![](../.gitbook/assets/expensesandgettingpaid_submittingexpenses_addingadditionalinformation_2021_4_20.gif)
+
+
 
 If you're inviting an organization to submit the expense, don't worry, they'll be offered the option to create the company profile when they submit the expense:
 
