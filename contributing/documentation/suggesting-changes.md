@@ -75,7 +75,7 @@ Its mirror to GitHub, on the other hand, would have the following structure:
 * Groups of pages are controlled by folders named after the group title \(i.e. `a-group-of-pages`\).
 * Nested pages have a similar structure to groups of pages; however, a `README.md` file with the contents of the parent page must be added to the folder named after the parent page title.
 
-GitBook also created a few shortcodes for special attributes. Learn more about them reading our [style guide](https://github.com/opencollective/documentation/tree/0c915d6173307139ebeaaa50dccaba7d7149c9b2/contributing/documentation/style-guide/README.md#special-attributes).
+GitBook also created a few shortcodes for special attributes. Learn more about them reading our [style guide](https://styleguide.opencollective.com/).
 
 ## Editing existing pages
 
