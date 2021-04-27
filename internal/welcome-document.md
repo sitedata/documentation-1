@@ -254,7 +254,7 @@ A current team member should set the new person up with the following as needed:
 
 * Signed contract
 * Invite to Slack and appropriate channels
-* Github org
+* Github.org
 * Team meeting calendar invitations
 * 1Password
 * Freshdesk
