@@ -4,9 +4,9 @@
 
 ## How do  I get to the Host Dashboard?
 
-Click the **Dashboard** button on your host page, while logged in as host admin. Sometimes, this button can be nested inside the **Actions** menu.
+Click the **Dashboard** button on your host page, while logged in as host admin. This button is nested inside the **Actions** menu.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![Dashboard Button on Organization Page](../.gitbook/assets/fiscal_host_fiscal_host_dashboard_dashboard_2021-04-27.gif)
 
 ## What can I do on the host dashboard?
 
