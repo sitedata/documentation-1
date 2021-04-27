@@ -118,7 +118,7 @@ Daily Calls: Tuesday-Thursday 3pm CEST / 9AM EST: daily standup. Rough account o
 
 ## Team Retreats
 
-We organize quarterly Team Retreats to bring the whole team together for 3-4 days. There is an expectation that everyone \(within reason\) participates. If you live very far away from where the retreat takes place, or it’s hard for ou to travel we ask you to try to come at least once a year.
+We organize quarterly Team Retreats to bring the whole team together for 3-4 days. There is an expectation that everyone \(within reason\) participates. If you live very far away from where the retreat takes place, or it’s hard for you to travel we ask you to try to come at least once a year.
 
 Design normally sends one member per retreat so they all get a chance to participate.
 
