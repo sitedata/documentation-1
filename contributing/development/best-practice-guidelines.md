@@ -19,7 +19,7 @@ description: >-
   * The strings must be internationalized. See [/help/developers/translations](https://docs.opencollective.com/help/developers/translations).
   * Update the language files `npm run build:langs` and commit them to reflect the changes.
 * Librairies
-  * Whenever it's possible, we must use `styled-components` to write styles. See [OC Styleguide](https://opencollective-styleguide.now.sh/).
+  * Whenever it's possible, we must use `styled-components` to write styles. See[ OC Styleguide.](https://styleguide.opencollective.com/)
   * We're getting rid of `Bootstrap` and `material-ui`. Please don't use them for new developments.
   * Icons must be imported from the [styled-icons](http://styled-icons.js.org/) library.
 * Testing
