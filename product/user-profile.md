@@ -22,7 +22,7 @@ After uploading a image, you are able to adjust it as you wish by either moving 
 
 ![](../.gitbook/assets/product_user_profile_moving_2021-04-20.gif)
 
-![](../.gitbook/assets/product_user_profile_zooming_2021-04-20.gif)
+![](../.gitbook/assets/videoone%20%281%29.gif)
 
 ### Main color
 
