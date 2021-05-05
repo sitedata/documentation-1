@@ -5,16 +5,16 @@ description: To integrate a "Contribute" option directly on your website
 # Embed contribution flow
 
 {% hint style="warning" %}
-This feature is currently in a beta-test phase and must be activated manually. If you want to join, send us a message on [Slack](https://slack.opencollective.com) \(\#﻿embed-contribution-flow channel\)
+This feature is currently in a beta-test phase. If you face any issue or need assistance, you can send a message on [Slack](https://slack.opencollective.com) \(\#﻿embed-contribution-flow channel\)
 {% endhint %}
 
 The embed contribution flow is a way to integrate Open Collective on your own website. Visitors will be able to contribute directly, by simply providing an email address.
 
-![Embedded contribution on the third party website of an initiative](../.gitbook/assets/image%20%284%29.png)
+![Embedded contribution on the website of an initiative](../.gitbook/assets/image%20%284%29.png)
 
 ## General considerations
 
-* The widget will look better if it has some space, ideally the full page height
+* The widget will look better if it has some space, ideally the full page height & width
 * By default, the theme of your profile \(defined by your primary color\) will be used. If you rather want to use the default Open Collective theme, you can add `?useTheme=false` to the URL.
 
 ## Embed the default tier \(Donate\)
@@ -22,7 +22,7 @@ The embed contribution flow is a way to integrate Open Collective on your own we
 The simplest way to embed the contribution flow is by using the `/donate` URL \(e.g. [https://opencollective.com/babel/donate](https://opencollective.com/babel/donate)\). Just replace `COLLECTIVE_SLUG` by your collective slug below:
 
 ```markup
-<iframe src="https://opencollective.com/embed/COLLECTIVE_SLUG/donate" style="width: 100%; min-height: 100vh;" />
+<iframe src="https://opencollective.com/embed/COLLECTIVE_SLUG/donate" style="width: 100%; min-height: 100vh;"></iframe>
 ```
 
 ## Embed a specific tier
@@ -32,6 +32,6 @@ To embed a specific tier, you'll need to know its ID. For that, go to your profi
 From this URL, you can deduct the embedded one \(prefix with `embed` and removes `/checkout`\):
 
 ```markup
-<iframe src="https://opencollective.com/embed/COLLECTIVE_SLUG/contribute/TIER_SLUG-TIER_ID" style="width: 100%; min-height: 100vh;" />
+<iframe src="https://opencollective.com/embed/COLLECTIVE_SLUG/contribute/TIER_SLUG-TIER_ID" style="width: 100%; min-height: 100vh;"></iframe>
 ```
 
