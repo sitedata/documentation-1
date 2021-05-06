@@ -66,8 +66,8 @@ You probably forgot to set the URL field when creating the event. Just write to 
 
 ## Email Attendees
 
-If you want to email your event's attendees, you can do it in two different ways:
+If you want to email your event's attendees, you can do so by using the "Updates" feature:
 
-1. Login to your Collective, go to the event, and under registered people you should see the option for emailing.  
-2. Send an email to _$event@$collective.opencollective.com_ to reach out to all people who RSVPed \($event = the name of your event, $collective = the name of your collective\).
+1. If not done already, go to your Settings and enable Updates under Profile Page
+2. Go back to your profile and click on "Create update"
 
