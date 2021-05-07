@@ -1,9 +1,5 @@
 # Add Funds Manually
 
-{% hint style="success" %}
-
-{% endhint %}
-
 You can manually add funds to a Collective directly. This is useful when you receive a contribution for a Collective outside the Open Collective system \(like a bank transfer\) and want to apply it to a Collective's budget, or to represent money you're already holding on the platform.
 
 Log in and go to your [Fiscal Host dashboard](fiscal-host-dashboard.md). Click on the **Hosted Collectives** tab.
