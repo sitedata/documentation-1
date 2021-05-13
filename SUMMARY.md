@@ -50,6 +50,7 @@
 * [Moderation](collectives/moderation.md)
 * [Conversations](collectives/conversations.md)
 * [Events](collectives/events.md)
+* [Projects](collectives/projects.md)
 * [Funding Options](collectives/funding-options.md)
 * [Data Export](collectives/data-export.md)
 * [Buttons & Banners](collectives/widgets.md)
