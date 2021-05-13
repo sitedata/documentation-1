@@ -12,7 +12,11 @@ Virtual cards can be used to make purchases on behalf of your collective. Each c
 
 ### Viewing card details
 
-To view virtual cards associated with a collective select 'virtual cards' from the Collective Settings menu . To view the details of a card click 'view card details'. 
+To view virtual cards associated with a collective select 'virtual cards' from the Collective Settings menu:
+
+![View Virtual Cards assigned to your Collective from the Collective&apos;s Seting menu. ](../.gitbook/assets/screenshot-2021-05-13-at-10.15.27.png)
+
+To view the details of a card click 'view card details'. 
 
 ### Automatically Paused Cards
 
