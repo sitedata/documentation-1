@@ -99,6 +99,7 @@
   * [Two-factor authentication for payouts](fiscal-hosts/payouts/two-factor-authentication-for-payouts.md)
 * [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
 * [Bank Transfers](fiscal-hosts/bank-transfers.md)
+* [Virtual Card Settings](fiscal-hosts/virtual-cards.md)
 * [Add Funds Manually](fiscal-hosts/add-funds-manually.md)
 * [Refunds](fiscal-hosts/refunds.md)
 * [Host Fees](fiscal-hosts/fiscal-host-fees.md)
