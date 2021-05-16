@@ -8,7 +8,7 @@ description: >-
 
 ## Webhooks \(generic, Slack, Discord\)
 
-Go to your settings, click on "Webhooks" then select the type and enter the URL for your webhook. The system will automatically detect Slack or [Discrod's slack-compatible](https://discord.com/developers/docs/resources/webhook#execute-slackcompatible-webhook) webhook URLs and will adapt the payloads for them.
+Go to your settings, click on "Webhooks" then select the type and enter the URL for your webhook. The system will automatically detect Slack or [Discord's slack-compatible](https://discord.com/developers/docs/resources/webhook#execute-slackcompatible-webhook) webhook URLs and will adapt the payloads for them.
 
 See [this link](https://api.slack.com/messaging/webhooks#getting_started) to learn how to create a Slack webhook, or [this link](https://support.discord.com/hc/en-us/articles/228383668-Utiliser-les-Webhooks) to learn how to create a Discord webhook.
 
