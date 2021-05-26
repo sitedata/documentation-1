@@ -4,7 +4,7 @@ Projects are a lightweight way for collectives to manage budgets for initiatives
 
 * You would like to collect funds for a specific initiative or idea
 * You would like to allocate part of your collective's budget to a specific initiative 
-* You would like to track the spending on a specific inititive separate from the rest of your collective
+* You would like to track the spending on a specific initiative separate from the rest of your collective
 
 Projects have many of the same features as Collectives. Projects have their own balances, contributions and expenses. Projects can describe contribution tiers, set goals and provide updates. 
 
@@ -24,7 +24,7 @@ Projects have many of the same features that Collectives have. Clicking 'setting
 
 ### Managing Project team members
 
-You cannot add, remove or edit team members for projects separetely from its parent Collective. The parent Collective's team members are all team members for any Projects in the Collective. 
+You cannot add, remove or edit team members for projects separately from its parent Collective. The parent Collective's team members are all team members for any Projects in the Collective. 
 
 ### Creating an Update
 
@@ -42,9 +42,7 @@ To move funds from a Collective to a Project:
 4. Select the parent Collective from the 'Contribute as' dropdown  
 5. Select the Collective's balance as the payment method
 
-To move funds from a Project to a Collective follow the steps above, swithcing 'Collective' for 'Project' and visa-versa. 
-
-
+To move funds from a Project to a Collective follow the steps above, switching 'Collective' for 'Project' and visa-versa. 
 
 ### Closing a Project
 
@@ -53,10 +51,4 @@ If you wish to close down a Project you can Archive it or Delete it, in either c
 From the Project profile page click 'Settings' and select 'Advanced' from the sidebar. From here you can archive a Project, disabling any future activity. If there has been no financial activity you can delete the Project, removing all of the data asociated with the Project. 
 
 Note that, like Collectives, you cannot delete a project if there are financial transactions associated with it. This enables us to ensure the accuracy and integrity of the ledger.
-
-
-
-
-
-
 
