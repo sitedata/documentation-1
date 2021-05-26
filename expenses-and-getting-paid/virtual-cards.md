@@ -4,7 +4,7 @@ Virtual cards are an additional benefit offered to collectives through hosts. Ho
 
 ### Requesting a card 
 
-Some Hosts accept requests for virtual cards. If you would like to request a Virtual Card select 'request card' from the 'action' menu on your collective's profile page:
+Some Hosts accept requests for virtual cards. If you would like to request a Virtual Card select 'request card' from the 'action' menu on your collective's profile page.
 
 ### Using a virtual card
 
