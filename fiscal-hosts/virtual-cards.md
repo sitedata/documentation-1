@@ -1,6 +1,6 @@
 # Virtual Card Settings
 
-Virtual cards can be offered to collectives through Hosts. Hosts create virtual cards using our provider Privacy.com and assign them to a Collective. Anyone with access to that card can then use it to make payments on behlaf of the Collective. When a payment is made an expense is automatically created for the Collective and the owner is notified to attach a receipt. Virtual Cards are particularly useful for recurring payments like hosting a website. 
+Virtual cards can be offered to collectives through Hosts. Hosts create virtual cards using our provider [Privacy.com](https://privacy.com/) and assign them to a Collective. Anyone with access to that card can then use it to make payments on behalf of the Collective. When a payment is made an expense is automatically created for the Collective and the owner is notified to attach a receipt. Virtual Cards are particularly useful for recurring payments like hosting a website. 
 
 ### Accessing Virtual Card Settings
 
@@ -22,13 +22,13 @@ It is possible to create and assign virtual cards to Collectives without enablin
 
 ### Creating and assigning cards
 
-Virtual Cards are created using our provider Privacy.com. To create a card on Privacy.com register and follow the details at [https://privacy.com/virtual-card](https://privacy.com/virtual-card)
+Virtual Cards are created using our provider [Privacy.com](https://privacy.com/). To create a card on [Privacy.com](https://privacy.com/) register and follow the details [here](https://privacy.com/virtual-card). 
 
-Once you have created a card on Privacy.com you can assign it to a Collective:
+Once you have created a card on [Privacy.com](https://privacy.com/) you can assign it to a Collective:
 
 ![Assigning a Virtual Card](../.gitbook/assets/screenshot-2021-05-12-at-12.54.06.png)
 
-Select a Collective then select a user who is responsbile for this card. This user will be automatically added to expenses created when a purchase is made using this card and they will be notified and asked to provide an reciept. 
+Select a Collective then select a user who is responsible for this card. This user will be automatically added to expenses created when a purchase is made using this card and they will be notified and asked to provide an receipt. 
 
 Click 'save card' to save the card to the Collective. 
 
@@ -46,11 +46,11 @@ Be aware of your surroundings when viewing a card's details as others may be abl
 
 ### Changing virtual card spending limits, owners and collectives
 
-Virtual Card spending limits can be modified using Privacy.com. We do not provide facilities for moving cards between Users or Collectives. This ensures that we have clear records for Collectives with clear responsiblities. If you need to re-assign a card  delete the card then create and assign a new one instead. 
+Virtual Card spending limits can be modified using Privacy.com. We do not provide facilities for moving cards between Users or Collectives. This ensures that we have clear records for Collectives with clear responsibilities. If you need to re-assign a card  delete the card then create and assign a new one instead. 
 
 ### Pausing, resuming and deleting a card
 
-To pause a card select 'pause card' from the actions menu from the virtual cards page. Paused cards cannot be used to make payments, any recurring payments will also be paused. To resume a card select 'Unpause card' fromthe actions menu. To remove a card from the collective select 'Delete card' from the Actions menu. 
+To pause a card select 'pause card' from the actions menu from the virtual cards page. Paused cards cannot be used to make payments, any recurring payments will also be paused. To resume a card select 'Unpause card' from the actions menu. To remove a card from the collective select 'Delete card' from the Actions menu. 
 
 ![Pause, resume and delete cards from the Action menu.](../.gitbook/assets/screenshot-2021-05-12-at-15.29.39.png)
 
