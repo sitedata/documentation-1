@@ -30,7 +30,3 @@ Connect your Twitter to automatically thank new backers who contribute to your C
 
 ![](../.gitbook/assets/connect-twitter.png)
 
-
-
-
-
