@@ -46,7 +46,9 @@ Be aware of your surroundings when viewing a card's details as others may be abl
 
 ### Changing virtual card spending limits, owners and collectives
 
-Virtual Card spending limits can be modified using Privacy.com. We do not provide facilities for moving cards between Users or Collectives. This ensures that we have clear records for Collectives with clear responsibilities. If you need to re-assign a card  delete the card then create and assign a new one instead. 
+Virtual Card spending limits can be modified using Privacy.com. We do not provide facilities for moving cards between Users or Collectives. This ensures that we have clear records for Collectives with clear responsibilities. If you need to re-assign a card,  delete the card then create and assign a new one instead. 
+
+If you need to make a change to initiative's card, please update to the correct amount in Privacy.com, and then email [support@opencollective.com](mailto:support@opencollective.com) with a screenshot so that our team can make the adjustment on the platform.
 
 ### Pausing, resuming and deleting a card
 
