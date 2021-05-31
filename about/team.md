@@ -84,7 +84,7 @@ Mexico
 ### Sudharaka Palamakumbura
 
 Software Designer  
-Burnaby, British Columbia, Canada 
+Vancouver, British Columbia, Canada 
 
 [Linkedin ](https://www.linkedin.com/in/sudharakap/)
 
