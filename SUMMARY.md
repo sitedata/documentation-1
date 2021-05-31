@@ -128,7 +128,6 @@
   * [PayPal](contributing/development/paypal.md)
   * [TransferWise](contributing/development/transferwise.md)
   * [Post-Donation Redirect](contributing/development/post-donation-redirect.md)
-  * [Custom Tweets](contributing/development/custom-tweets.md)
   * [Manual Reporting](contributing/development/manual-reporting.md)
   * [GitHub Permissions](contributing/development/github-permissions.md)
   * [Internationalization \(i18n\) system](contributing/development/translations.md)
