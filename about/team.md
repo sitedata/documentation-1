@@ -57,7 +57,7 @@ Guadalajara, Mexico
 
 ### **Alina Manko**
 
-User support and financial admin  
+Operations Support and Financial Admin  
 Wellington, New Zealand
 
 [Linkedin ](https://www.linkedin.com/in/alinamanko/)
@@ -67,12 +67,31 @@ Wellington, New Zealand
 Designer  
 India
 
+[Linkedin](https://www.linkedin.com/in/amina-kazi-a97b47158/)
+
 ### Shannon Wray
 
 Documentation  
 Auckland, New Zealand
 
 [Linkedin ](https://www.linkedin.com/in/shannonwray)
+
+### Kayla 
+
+Admin Support - Open Collective Foundation   
+Mexico
+
+### Sudharaka Palamakumbura
+
+Software Designer
+
+[Linkedin ](https://www.linkedin.com/in/sudharakap/)
+
+### Nathan Hewitt
+
+Open Collective Foundation 
+
+[Linkedin ](https://www.linkedin.com/in/nthnh/)
 
 ## Advisors
 
