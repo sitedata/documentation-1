@@ -10,8 +10,6 @@ We are a US based C corp registered in Delaware. We also have created other sepa
 
 Our team is distributed between Aix-en-Provence, Auckland, Brussels, Berlin, Guadalajara, New York, Madrid, Paris, Shropshire, Navi Mumbai, Vancouver and Wellington. 
 
-
-
 ### When did you start?
 
 [Xavier Damman](https://twitter.com/xdamman) created the company in May 2015 and raised a first round of $500k in October 2015 \([deck](https://www.dropbox.com/s/klwxkewuf9mnjy1/OpenCollective.pdf?dl=0)\). [Pia Mancini](https://twitter.com/piamancini) and [Aseem Sood](https://twitter.com/aseemsood_) [joined as cofounders in January 2016](https://medium.com/open-collective/pia-mancini-and-aseem-sood-join-opencollective-as-cofounders-2d4549bd46fd) \([Aseem left the company in April 2018](https://medium.com/open-collective/team-update-19749b964e39)\). [Pia became CEO in April 2018](https://medium.com/open-collective/my-new-role-at-open-collective-3bbad22f1715).
