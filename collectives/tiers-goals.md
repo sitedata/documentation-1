@@ -10,9 +10,9 @@ Collective Goals will be sent in the emails sent to your contributors, and you c
 
 To create your own Collective goals, go to your Collective profile, click on **Settings** and then on **Collective Goals**.
 
-![](../.gitbook/assets/collectives_collective-goals-and-tiers_collective-profile-settings_2020-08-12.png)
+![](../.gitbook/assets/collectives_customize_collective_2021-05-31.png)
 
-![](../.gitbook/assets/collectives_collective-goals-and-tiers_collective-goals-settings_2020-08-12.png)
+![](../.gitbook/assets/collectives_collectives_goals_and_tiers_2021-05-31.png)
 
 To create a goal, give it a **title**, categorize it as either a goal **balance** or **yearly budget,** specify the **amount** you need and add a **description**. Don't forget to **save** your changes when you're done!
 
