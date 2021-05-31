@@ -1,6 +1,6 @@
 # Zero Collective Balance
 
-Before [changing hosts](add-or-change-fiscal-host.md#changing-fiscal-host) or [closing a Collective](closing-a-collective.md), the balance must be at zero.
+Before [changing hosts](add-fiscal-host.md#changing-fiscal-host) or [closing a Collective](closing-a-collective.md), the balance must be at zero.
 
 You can move money out of your Collective in several ways:
 

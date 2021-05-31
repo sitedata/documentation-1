@@ -40,7 +40,7 @@
 * [Customize Collective](collectives/customize-collective.md)
 * [Team](collectives/core-contributors.md)
 * [Collective Goals & Tiers](collectives/tiers-goals.md)
-* [Add Fiscal Host](collectives/add-or-change-fiscal-host.md)
+* [Add Fiscal Host](collectives/add-fiscal-host.md)
 * [Change Fiscal Host](collectives/change-fiscal-host.md)
 * [Open Source Collectives](collectives/osc-verification.md)
 * [Transparent Budget](collectives/budget.md)
