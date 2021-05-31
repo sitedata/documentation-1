@@ -36,14 +36,14 @@ Shropshire, United Kingdom
 
 ### **Benjamin Piouffle**
 
-Senior Software Engineer  
+Software Engineer  
 Aix-en-Provence, France
 
 [Twitter](https://twitter.com/betree83), [GitHub](https://github.com/Betree), [Linkedin ](https://www.linkedin.com/in/benjaminpiouffle/)
 
 ### **Leo Kewitz**
 
-Senior Software Engineer  
+Software Engineer  
 Brazil
 
 [GitHub](https://github.com/kewitz),[ Linkedin](https://www.linkedin.com/in/kewitz/)
