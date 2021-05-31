@@ -12,8 +12,6 @@ As an admin, all sections will appear in your view, with invitations to add cont
 
 ![](../.gitbook/assets/screen-shot-2019-09-18-at-11.12.02-am.png)
 
-If you would like to reorder sections or hide one, please contact support and we can action your request. In the future we will enable Collective admins to hide and reorder sections themselves.
-
 ## Change Logo
 
 To update your logo image, hover over it and click on **Edit logo**, or simply drag an image file onto the logo area.
