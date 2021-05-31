@@ -2,9 +2,9 @@
 
 ## Edit Settings
 
-To access all settings for your Collective, click the cog icon next to your logo image.
+To access all settings for your Collective, click the settings button shown in the image below. 
 
-![](../.gitbook/assets/screen-shot-2019-09-18-at-11.24.36-am.png)
+![](../.gitbook/assets/collectives_customize_collective_2021-05-31.png)
 
 ## Page Sections
 
