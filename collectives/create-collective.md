@@ -6,7 +6,7 @@ Once you've registered on Open Collective, reveal the dropdown menu by clicking 
 
 ![Adding a collective](../.gitbook/assets/collectives_creating_a_collective_2021-05-31.png)
 
-Then, select the category that best describe your Collective.
+Then, select the category that best describes your Collective.
 
 ![&apos;Create a Collective&apos; page showing three categories for Collectives: open source projects, community, and climate initiatives.](../.gitbook/assets/collectives_creating-a-collective_collective-creation_2020-03-11.png)
 
