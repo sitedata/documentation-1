@@ -65,7 +65,7 @@ Wellington, New Zealand
 ### **Amina Kazi**
 
 Designer  
-Thane, Maharashtra, India
+Navi Mumbai, India
 
 [Linkedin](https://www.linkedin.com/in/amina-kazi-a97b47158/)
 
