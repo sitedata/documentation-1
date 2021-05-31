@@ -30,7 +30,7 @@ Wellington, New Zealand
 ### **Benjamin Nickolls**
 
 CPO  
-Shropshire, UK
+Shropshire, United Kingdom
 
 [Twitter](https://twitter.com/BenJam), [GitHub](https://github.com/BenJam), [Linkedin](https://www.linkedin.com/in/benjamuk/)
 
@@ -83,13 +83,15 @@ Mexico
 
 ### Sudharaka Palamakumbura
 
-Software Designer
+Software Designer  
+Burnaby, British Columbia, Canada 
 
 [Linkedin ](https://www.linkedin.com/in/sudharakap/)
 
 ### Nathan Hewitt
 
-Open Collective Foundation 
+Open Collective Foundation   
+New York, United States
 
 [Linkedin ](https://www.linkedin.com/in/nthnh/)
 
