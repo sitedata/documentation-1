@@ -4,7 +4,7 @@ Open Collective allows you to create a transparent funding page for your project
 
 Once you've registered on Open Collective, reveal the dropdown menu by clicking on your username, then click on the **+ New** button under the **My Collectives** section.
 
-![](../.gitbook/assets/collectives_create-a-collective_dropdown-menu_option-highlighted_2020-03-20.png)
+![Adding a collective](../.gitbook/assets/collectives_creating_a_collective_2021-05-31.png)
 
 Then, select the category that best describe your Collective.
 
