@@ -22,13 +22,13 @@ Below are the hosts that Open Collective manages, plus some more examples.
 
 | Fiscal Host | Hosted Collectives | Fee |
 | :--- | :--- | :--- |
-| Open Source Collective | Open source projects | 5% |
+| Open Source Collective | Open source projects | 10% |
 | Open Collective Foundation | US-based charity projects | 5% for credit card payments, progressive fee structure for manual payments \(8% down to 4% for larger budgets\) |
 | Open Collective Inc | Our own transparent budget | 0% |
-| Open Collective Europe ASBL | EU-based Collectives | 5% |
+| Open Collective Europe ASBL | EU-based Collectives | 6% |
 | Open Collective Paris | Paris-based collectives | 0% |
 | Brussels Together | Brussels citizen initiatives | €10/mo |
-| Women Who Code | Local chapters | 0% |
+| Women Who Code | Local chapters | 10% |
 | Operation Code | Local chapters | 30% |
 
 ### Why are there different Fiscal Hosts?
