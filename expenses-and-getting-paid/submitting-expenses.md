@@ -4,7 +4,7 @@ Go to the Collective you're submitting the expense to and click "Submit Expense"
 
 ![](../.gitbook/assets/expenses_submitting_expenses_2021-05-31.png)
 
-On the **Submit expense** page, you can submit two types of expenses, **reimbursements** and **invoices.** On this page you can also check the **Collective balance**, review **expense policies** and get the answers to a few of the most frequently asked questions.
+On the **Submit expense** page, you can submit two types of expenses, **reimbursements** and **invoices.** On this page, you can also check the **Collective balance**, review **expense policies** and get the answers to a few of the most frequently asked questions.
 
 ![Expense submission page](../.gitbook/assets/expenses-and-getting-paid_submitting-expenses_typical-page-scheme_2020-05-11.png)
 
