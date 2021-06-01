@@ -6,7 +6,7 @@
 
 Fiscal hosting enables Collectives to transact financially without needing to legally incorporate. In other contexts, this is sometimes called _fiscal sponsorship_.
 
-A fiscal host is a legal company or individual who holds a Collective’s funds in their bank account, and can generate invoices and receipts for backers and sponsors. You can think of a fiscal host as an umbrella organization for the Collectives in it.
+A fiscal host is a legal company or individual who holds a Collective’s funds in their bank account and can generate invoices and receipts for backers and sponsors. You can think of a fiscal host as an umbrella organization for the Collectives in it.
 
 The fiscal host is responsible for taxes, accounting, compliance, financial admin, and paying expenses approved by the Collective’s core contributors \(admins\).
 
@@ -39,7 +39,7 @@ Some projects can’t be fiscally hosted by the entities Open Collective runs it
 
 ### Do all Collectives need a Fiscal Host?
 
-Every Collective that receives or pays out money needs a fiscal host, because they need to connect the host's bank account, Stripe account, and PayPal account to activate Open Collective’s payment features. If you already have a legal company set up, or you are comfortable taking on the responsibility as an individual, you can [fiscally host your own Collective](become-a-fiscal-host.md). If not, you can join an existing host.
+Every Collective that receives or pays out money needs a fiscal host because they need to connect the host's bank account, Stripe account, and PayPal account to activate Open Collective’s payment features. If you already have a legal company set up, or you are comfortable taking on the responsibility as an individual, you can [fiscally host your own Collective](become-a-fiscal-host.md). If not, you can join an existing host.
 
 ### How do I find a Fiscal Host?
 
