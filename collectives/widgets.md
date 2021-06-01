@@ -42,9 +42,8 @@ You can also add a style object \(react style\), e.g.
 
 Note: make sure that your style object is parsable with `JSON.stringify`
 
-**Examples:**
+**Example:**
 
-* [http://apex.run/\#links](http://apex.run/#links)
 * [https://www.spinacms.com/](https://www.spinacms.com/)
 
 **How to customize?**
