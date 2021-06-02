@@ -96,7 +96,7 @@
   * [Manage updates](fiscal-hosts/fiscal-host-settings/manage-updates.md)
 * [Payouts](fiscal-hosts/payouts/README.md)
   * [Payouts with PayPal](fiscal-hosts/payouts/payouts-with-paypal.md)
-  * [Payouts with \(Transfer\)Wise](fiscal-hosts/payouts/payouts-with-transferwise.md)
+  * [Payouts with Wise](fiscal-hosts/payouts/payouts-with-transferwise.md)
   * [Two-factor authentication for payouts](fiscal-hosts/payouts/two-factor-authentication-for-payouts.md)
 * [Fiscal Host Dashboard](fiscal-hosts/fiscal-host-dashboard.md)
 * [Bank Transfers](fiscal-hosts/bank-transfers.md)
