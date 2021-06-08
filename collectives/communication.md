@@ -8,8 +8,6 @@ To create an Update, go to your Collective page, head to the **Updates** section
 
 ![](../.gitbook/assets/collectives_updates-and-comms_create-new-update.png)
 
-
-
 #### Target audience
 
 If you're a fiscal host, you'll have the option to pick the target audience before publishing an update:

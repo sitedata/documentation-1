@@ -50,7 +50,7 @@ Important information for Financial Contributors such as what does this tier mea
 
 #### **Interval**
 
-The frequency in which such contribution will be charged. It can be a one time contribution, a monthly one, yearly or flexible. 
+The frequency in which such contribution will be charged. It can be a one time contribution, a monthly one, yearly or flexible.
 
 #### **Amount type**
 
@@ -144,5 +144,5 @@ Yes, you can pay with a credit card or we can work with you to go through your P
 
 #### What if we never were provided with support?
 
-Please reach out to us and we will work it out \([support@opencollective.com](support@opencollective.com)\).
+Please reach out to us and we will work it out \([support@opencollective.com](https://github.com/opencollective/documentation/tree/1b6b2a20534e35ca28433008c25dfde7a0e386fa/collectives/support@opencollective.com)\).
 

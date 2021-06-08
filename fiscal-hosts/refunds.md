@@ -4,7 +4,7 @@
 Refunds are processed by Fiscal Host administrators. If you are not the admin, contact your fiscal host \(or [Open Collective support](https://opencollective.com/support) if your host is managed by Open Collective\).
 {% endhint %}
 
-### **To refund a donation as a Fiscal Host admin:**
+## **To refund a donation as a Fiscal Host admin:**
 
 Go to the Collective page and head to the **Budget** section.
 

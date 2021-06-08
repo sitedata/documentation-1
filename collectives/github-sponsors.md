@@ -94,7 +94,7 @@ Confusingly, GitHub and Open Collective use the word "organization" to mean two 
 
 ### What if Stripe asks for KYC info?
 
-Sometimes Stripe will ask for extra info as part of their normal security protocols. If this happens, you can provide Open Source Collective's organizational info as described above. 
+Sometimes Stripe will ask for extra info as part of their normal security protocols. If this happens, you can provide Open Source Collective's organizational info as described above.
 
 The address for KYC purposes is the same: 340 S LEMON AVE \#3717, Walnut CA 91789 USA. If they ask for anything you don't know the answer to, please contact [https://opencollective.com/support](https://opencollective.com/support).
 

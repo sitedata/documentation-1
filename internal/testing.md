@@ -4,8 +4,7 @@ Tests are intended to be run either on development machines \(`NODE_ENV=developm
 
 ## Setup
 
-We use [Mocha](https://mochajs.org/) for unit-testing and [Cypress](https://www.cypress.io/) for end-to-end \(e2e\) testing. 
-More details on setting up your local machine for tests can be found at, [https://github.com/opencollective/opencollective-frontend/blob/main/docs/e2e.md](https://github.com/opencollective/opencollective-frontend/blob/main/docs/e2e.md).
+We use [Mocha](https://mochajs.org/) for unit-testing and [Cypress](https://www.cypress.io/) for end-to-end \(e2e\) testing. More details on setting up your local machine for tests can be found at, [https://github.com/opencollective/opencollective-frontend/blob/main/docs/e2e.md](https://github.com/opencollective/opencollective-frontend/blob/main/docs/e2e.md).
 
 ### Database
 

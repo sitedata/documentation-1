@@ -2,7 +2,7 @@
 
 ## Edit Settings
 
-To access all settings for your Collective, click the settings button shown in the image below. 
+To access all settings for your Collective, click the settings button shown in the image below.
 
 ![](../.gitbook/assets/collectives_customize_collective_2021-05-31.png)
 

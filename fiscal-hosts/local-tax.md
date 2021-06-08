@@ -34,8 +34,6 @@ If the collective has a VAT number and should be responsible for collecting VAT 
 
 ![](../.gitbook/assets/image%20%2816%29%20%281%29.png)
 
-
-
 ## GST \(New Zealand\)
 
 GST is also supported for New Zealand. [Contact us](https://opencollective.com/support)!

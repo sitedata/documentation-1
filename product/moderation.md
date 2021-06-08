@@ -28,7 +28,3 @@ When you're account is limited you'll be unable to complete any sensitive action
 
 If your account gets limited by mistake, you can contact [https://opencollective.com/support](https://opencollective.com/support).
 
-
-
-
-

@@ -82,8 +82,7 @@ If you're already in the beta test group, you can follow these instructions:
 
 ![](../../.gitbook/assets/screen-record-from-2020-07-10-13.30.21.gif)
 
-2. Now, copy the necessary information to Open Collective.
-
+1. Now, copy the necessary information to Open Collective.
    * Open a new tab and go to [Open Collective](https://www.opencollective.com).
    * Open your Host collective settings page and click on the _Sending Money_ option in the menu.
    * Copy and paste _Client ID_ and _Secret_ in the respective fields.
@@ -99,5 +98,6 @@ Done! Next time you pay for an expense submitted with PayPal and you select the 
 
 In order to reduce risks related to having an active API token that is able to create and fund transactions, we strongly suggest you:
 
-- Keep just enough balance in PayPal to pay your expenses.
-   * This can be achieved by calculating the amount needed for the current payment cycle and transferring it beforehand.
+* Keep just enough balance in PayPal to pay your expenses.
+  * This can be achieved by calculating the amount needed for the current payment cycle and transferring it beforehand.
+
