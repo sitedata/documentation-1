@@ -30,7 +30,7 @@ Once you have created a card on [Privacy.com](https://privacy.com/) you can assi
 
 Select a Collective then select a user who is responsible for this card. This user will be automatically added to expenses created when a purchase is made using this card and they will be notified and asked to provide an receipt. 
 
-Click 'save card' to save the card to the Collective. 
+Click 'Save Card' to save the card to the Collective. 
 
 ### Viewing Card details
 
@@ -48,7 +48,7 @@ Be aware of your surroundings when viewing a card's details as others may be abl
 
 Virtual Card spending limits can be modified using Privacy.com. We do not provide facilities for moving cards between Users or Collectives. This ensures that we have clear records for Collectives with clear responsibilities. If you need to re-assign a card,  delete the card then create and assign a new one instead. 
 
-If you need to make a change to initiative's card, please update to the correct amount in Privacy.com, and then email [support@opencollective.com](mailto:support@opencollective.com) with a screenshot so that our team can make the adjustment on the platform.
+If you need to make a change to initiative's card, please update to the correct amount in Privacy.com, and then contact us at [https://opencollective.com/support](https://opencollective.com/support) with a screenshot so that our team can make the adjustment on the platform.
 
 ### Pausing, resuming and deleting a card
 
