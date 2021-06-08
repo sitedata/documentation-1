@@ -20,7 +20,7 @@ description: >-
   * Update the language files `npm run build:langs` and commit them to reflect the changes.
 * Libraries
   * Whenever it's possible, we must use `styled-components` to write styles. See[ OC Styleguide.](https://styleguide.opencollective.com/)
-  * We're getting rid of `material-ui`. Please don't use it for new development.
+  * We're getting rid of `material-ui`. We still rely on this library for some stuff but please don't use it directly.
   * Icons must be imported from the [styled-icons](http://styled-icons.js.org/) library.
 * Testing
   * Tests written with Cypress must follow our [good practices](https://docs.opencollective.com/help/developers/testing-with-cypress) conventions.
